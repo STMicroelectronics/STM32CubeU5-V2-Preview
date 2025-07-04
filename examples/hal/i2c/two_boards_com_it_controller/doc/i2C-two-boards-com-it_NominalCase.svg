@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="3453.125px" preserveAspectRatio="none" style="width:2975px;height:3453px;background:#EEEBDC;" version="1.1" viewBox="0 0 2975 3453" width="2975px" zoomAndPan="magnify"><defs/><g><rect fill="#EEEBDC" height="3453.125" style="stroke:none;stroke-width:3.125;" width="2975" x="0" y="0"/><text fill="#000000" font-family="sans-serif" font-size="43.75" font-weight="bold" lengthAdjust="spacing" textLength="993.75" x="978.125" y="92.2913">Nominal I2C communication in interrupt mode</text><rect fill="#DDDDDD" height="3295.3125" style="stroke:#181818;stroke-width:1.5625;" width="1970.3125" x="378.125" y="139.4043"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="328.125" x="1199.2188" y="181.5765">Controller Board</text><rect fill="#DDDDDD" height="3295.3125" style="stroke:#181818;stroke-width:1.5625;" width="362.5" x="2479.6875" y="139.4043"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="343.75" x="2489.0625" y="181.5765">Responder Board</text><rect fill="#A9DCDF" height="2959.1553" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="542.1875" y="336.1572"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="542.1875" x2="542.1875" y1="336.1572" y2="3295.3125"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="573.4375" x2="573.4375" y1="336.1572" y2="3295.3125"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="542.1875" x2="573.4375" y1="336.1572" y2="336.1572"/><rect fill="#A9DCDF" height="553.4668" style="stroke:#0000FF;stroke-width:3.125;" width="31.25" x="1426.5625" y="1068.8477"/><rect fill="#A9DCDF" height="458.6182" style="stroke:#0000FF;stroke-width:3.125;" width="31.25" x="1426.5625" y="2034.7656"/><rect fill="#A9DCDF" height="2959.1553" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="2645.3125" y="336.1572"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2645.3125" x2="2645.3125" y1="336.1572" y2="3295.3125"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2676.5625" x2="2676.5625" y1="336.1572" y2="3295.3125"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2645.3125" x2="2676.5625" y1="336.1572" y2="336.1572"/><rect fill="none" height="2404.7607" style="stroke:#000000;stroke-width:4.6875;" width="2650" x="271.875" y="862.4268"/><rect fill="none" height="922.168" style="stroke:#000000;stroke-width:4.6875;" width="2562.5" x="328.125" y="941.6504"/><rect fill="none" height="631.3721" style="stroke:#000000;stroke-width:4.6875;" width="2500" x="359.375" y="1210.5713"/><rect fill="#F0F8FF" height="194.6289" style="stroke:none;stroke-width:3.125;" width="2500" x="359.375" y="1647.3145"/><rect fill="none" height="827.3193" style="stroke:#000000;stroke-width:4.6875;" width="2562.5" x="328.125" y="1907.5684"/><rect fill="none" height="536.5234" style="stroke:#000000;stroke-width:4.6875;" width="2500" x="359.375" y="2176.4893"/><rect fill="#F0F8FF" height="194.6289" style="stroke:none;stroke-width:3.125;" width="2500" x="359.375" y="2518.3838"/><rect fill="none" height="466.6748" style="stroke:#000000;stroke-width:4.6875;" width="1431.25" x="303.125" y="2778.6377"/><rect fill="none" height="365.5762" style="stroke:#000000;stroke-width:4.6875;" width="1368.75" x="334.375" y="2857.8613"/><rect fill="#F0F8FF" height="194.6289" style="stroke:none;stroke-width:3.125;" width="1368.75" x="334.375" y="3028.8086"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="556.25" x2="556.25" y1="304.9072" y2="3323.4375"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="1440.625" x2="1440.625" y1="304.9072" y2="3323.4375"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="2082.8125" x2="2082.8125" y1="304.9072" y2="3323.4375"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="2659.375" x2="2659.375" y1="304.9072" y2="3323.4375"/><rect fill="#90EE90" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="209.375" x="453.125" y="203.0029"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="165.625" x="475" y="270.2942">Example</text><rect fill="#90EE90" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="209.375" x="453.125" y="3320.3125"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="165.625" x="475" y="3387.6038">Example</text><rect fill="#ADD8E6" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="334.375" x="1275" y="203.0029"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="290.625" x="1296.875" y="270.2942">HAL I2C Driver</text><rect fill="#ADD8E6" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="334.375" x="1275" y="3320.3125"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="290.625" x="1296.875" y="3387.6038">HAL I2C Driver</text><rect fill="#E2E2F0" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="381.25" x="1892.1875" y="203.0029"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="337.5" x="1914.0625" y="270.2942">I2Cx_IRQHandler</text><rect fill="#E2E2F0" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="381.25" x="1892.1875" y="3320.3125"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="337.5" x="1914.0625" y="3387.6038">I2Cx_IRQHandler</text><rect fill="#90EE90" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="209.375" x="2556.25" y="203.0029"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="165.625" x="2578.125" y="270.2942">Example</text><rect fill="#90EE90" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="209.375" x="2556.25" y="3320.3125"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="165.625" x="2578.125" y="3387.6038">Example</text><rect fill="#A9DCDF" height="2959.1553" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="542.1875" y="336.1572"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="542.1875" x2="542.1875" y1="336.1572" y2="3295.3125"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="573.4375" x2="573.4375" y1="336.1572" y2="3295.3125"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="542.1875" x2="573.4375" y1="336.1572" y2="336.1572"/><rect fill="#A9DCDF" height="553.4668" style="stroke:#0000FF;stroke-width:3.125;" width="31.25" x="1426.5625" y="1068.8477"/><rect fill="#A9DCDF" height="458.6182" style="stroke:#0000FF;stroke-width:3.125;" width="31.25" x="1426.5625" y="2034.7656"/><rect fill="#A9DCDF" height="2959.1553" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="2645.3125" y="336.1572"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2645.3125" x2="2645.3125" y1="336.1572" y2="3295.3125"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2676.5625" x2="2676.5625" y1="336.1572" y2="3295.3125"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2645.3125" x2="2676.5625" y1="336.1572" y2="336.1572"/><rect fill="#EEEEEE" height="9.375" style="stroke:#EEEEEE;stroke-width:3.125;" width="2953.125" x="0" y="402.3315"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2953.125" y1="402.3315" y2="402.3315"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2953.125" y1="411.7065" y2="411.7065"/><rect fill="#EEEEEE" height="76.0986" style="stroke:#000000;stroke-width:6.25;" width="512.5" x="1220.3125" y="367.4072"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="456.25" x="1239.0625" y="422.0795">Initialization: app_init()</text><path d="M587.5,490.3809 L587.5,571.6309 L1425,571.6309 L1425,521.6309 L1393.75,490.3809 L587.5,490.3809 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><path d="M1393.75,490.3809 L1393.75,521.6309 L1425,521.6309 L1393.75,490.3809 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="771.875" x="606.25" y="548.1781">The application initializes the I2C instance.</text><rect fill="#EEEEEE" height="9.375" style="stroke:#EEEEEE;stroke-width:3.125;" width="2953.125" x="0" y="654.5288"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2953.125" y1="654.5288" y2="654.5288"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2953.125" y1="663.9038" y2="663.9038"/><rect fill="#EEEEEE" height="76.0986" style="stroke:#000000;stroke-width:6.25;" width="328.125" x="1312.5" y="619.6045"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="271.875" x="1331.25" y="674.2767">app_process()</text><path d="M587.5,742.5781 L587.5,823.8281 L1546.875,823.8281 L1546.875,773.8281 L1515.625,742.5781 L587.5,742.5781 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><path d="M1515.625,742.5781 L1515.625,773.8281 L1546.875,773.8281 L1515.625,742.5781 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="893.75" x="606.25" y="800.3754">The application runs indefinitely if no error occurs.</text><path d="M271.875,862.4268 L500,862.4268 L500,888.5254 L468.75,919.7754 L271.875,919.7754 L271.875,862.4268 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="2404.7607" style="stroke:#000000;stroke-width:4.6875;" width="2650" x="271.875" y="862.4268"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="87.5" x="318.75" y="907.724">loop</text><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="425" x="546.875" y="904.361">[until max retry reached]</text><path d="M328.125,941.6504 L1531.25,941.6504 L1531.25,967.749 L1500,998.999 L328.125,998.999 L328.125,941.6504 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="922.168" style="stroke:#000000;stroke-width:4.6875;" width="2562.5" x="328.125" y="941.6504"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="1062.5" x="375" y="986.9476">Communication initiation by Controller : sending data</text><polygon fill="#0000FF" points="1389.0625,1056.3477,1420.3125,1068.8477,1389.0625,1081.3477,1401.5625,1068.8477" style="stroke:#0000FF;stroke-width:3.125;"/><line style="stroke:#0000FF;stroke-width:6.25;" x1="573.4375" x2="1407.8125" y1="1068.8477" y2="1068.8477"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="759.375" x="595.3125" y="1053.6713">HAL_I2C_MASTER_Transmit_IT(&amp;hi2c,...)</text><polygon fill="#0000FF" points="607.8125,1151.1963,576.5625,1163.6963,607.8125,1176.1963,595.3125,1163.6963" style="stroke:#0000FF;stroke-width:3.125;"/><line style="stroke:#0000FF;stroke-width:6.25;stroke-dasharray:2.0,2.0;" x1="589.0625" x2="1423.4375" y1="1163.6963" y2="1163.6963"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="159.375" x="626.5625" y="1148.5199">HAL_OK</text><path d="M359.375,1210.5713 L550,1210.5713 L550,1236.6699 L518.75,1267.9199 L359.375,1267.9199 L359.375,1210.5713 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="631.3721" style="stroke:#000000;stroke-width:4.6875;" width="2500" x="359.375" y="1210.5713"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="50" x="406.25" y="1255.8685">alt</text><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="412.5" x="596.875" y="1252.5055">[transmission success]</text><ellipse cx="2643.75" cy="1335.4248" fill="none" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:4.6875;"/><line style="stroke:#000000;stroke-width:6.25;" x1="2621.875" x2="2590.625" y1="1337.7686" y2="1325.2686"/><line style="stroke:#000000;stroke-width:6.25;" x1="2621.875" x2="2590.625" y1="1337.7686" y2="1350.2686"/><line style="stroke:#000000;stroke-width:6.25;" x1="1457.8125" x2="2625" y1="1337.7686" y2="1337.7686"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="234.375" x="1479.6875" y="1322.5922">data over I2C</text><polygon fill="#000000" points="1492.1875,1420.1172,1460.9375,1432.6172,1492.1875,1445.1172,1479.6875,1432.6172" style="stroke:#000000;stroke-width:3.125;"/><line style="stroke:#000000;stroke-width:6.25;stroke-dasharray:2.0,2.0;" x1="1473.4375" x2="2642.1875" y1="1432.6172" y2="1432.6172"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="262.5" x="1510.9375" y="1417.4408">ACK reception</text><polygon fill="#000000" points="1492.1875,1514.9658,1460.9375,1527.4658,1492.1875,1539.9658,1479.6875,1527.4658" style="stroke:#000000;stroke-width:3.125;"/><line style="stroke:#000000;stroke-width:6.25;" x1="1473.4375" x2="2079.6875" y1="1527.4658" y2="1527.4658"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="490.625" x="1510.9375" y="1512.2894">HAL_I2C_EV_IRQHandler()</text><polygon fill="#0000FF" points="607.8125,1609.8145,576.5625,1622.3145,607.8125,1634.8145,595.3125,1622.3145" style="stroke:#0000FF;stroke-width:3.125;"/><line style="stroke:#0000FF;stroke-width:6.25;" x1="589.0625" x2="1439.0625" y1="1622.3145" y2="1622.3145"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="771.875" x="626.5625" y="1607.1381">HAL_I2C_MASTER_TxCpltCallback(&amp;hi2c)</text><line style="stroke:#000000;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="359.375" x2="2859.375" y1="1650.4395" y2="1650.4395"/><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="356.25" x="375" y="1686.1237">[transmission error]</text><rect fill="none" height="129.5166" style="stroke:#000000;stroke-width:4.6875;" width="1300" x="381.25" y="1696.8018"/><path d="M381.25,1696.8018 L575,1696.8018 L575,1721.8018 L543.75,1753.0518 L381.25,1753.0518 L381.25,1696.8018 " fill="#EEEEEE" style="stroke:#000000;stroke-width:6.25;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="53.125" x="421.875" y="1745.224">ref</text><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="537.5" x="489.0625" y="1804.48">New transmission attempt, see</text><text fill="#000000" font-family="sans-serif" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="537.5" x="1035.9375" y="1804.48">Communication error handling</text><path d="M328.125,1907.5684 L1028.125,1907.5684 L1028.125,1933.667 L996.875,1964.917 L328.125,1964.917 L328.125,1907.5684 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="827.3193" style="stroke:#000000;stroke-width:4.6875;" width="2562.5" x="328.125" y="1907.5684"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="559.375" x="375" y="1952.8656">Data reception by Controller</text><polygon fill="#0000FF" points="1389.0625,2022.2656,1420.3125,2034.7656,1389.0625,2047.2656,1401.5625,2034.7656" style="stroke:#0000FF;stroke-width:3.125;"/><line style="stroke:#0000FF;stroke-width:6.25;" x1="573.4375" x2="1407.8125" y1="2034.7656" y2="2034.7656"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="737.5" x="595.3125" y="2019.5892">HAL_I2C_Master_RECEIVE_IT(&amp;hi2c,...)</text><polygon fill="#0000FF" points="607.8125,2117.1143,576.5625,2129.6143,607.8125,2142.1143,595.3125,2129.6143" style="stroke:#0000FF;stroke-width:3.125;"/><line style="stroke:#0000FF;stroke-width:6.25;stroke-dasharray:2.0,2.0;" x1="589.0625" x2="1423.4375" y1="2129.6143" y2="2129.6143"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="159.375" x="626.5625" y="2114.4379">HAL_OK</text><path d="M359.375,2176.4893 L550,2176.4893 L550,2202.5879 L518.75,2233.8379 L359.375,2233.8379 L359.375,2176.4893 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="536.5234" style="stroke:#000000;stroke-width:4.6875;" width="2500" x="359.375" y="2176.4893"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="50" x="406.25" y="2221.7865">alt</text><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="346.875" x="596.875" y="2218.4235">[reception success]</text><ellipse cx="1456.25" cy="2301.3428" fill="none" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:4.6875;"/><line style="stroke:#000000;stroke-width:6.25;" x1="1478.125" x2="1509.375" y1="2303.6865" y2="2291.1865"/><line style="stroke:#000000;stroke-width:6.25;" x1="1478.125" x2="1509.375" y1="2303.6865" y2="2316.1865"/><line style="stroke:#000000;stroke-width:6.25;" x1="1457.8125" x2="2642.1875" y1="2303.6865" y2="2303.6865"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="234.375" x="1510.9375" y="2288.5101">data over I2C</text><polygon fill="#000000" points="1492.1875,2386.0352,1460.9375,2398.5352,1492.1875,2411.0352,1479.6875,2398.5352" style="stroke:#000000;stroke-width:3.125;"/><line style="stroke:#000000;stroke-width:6.25;" x1="1473.4375" x2="2079.6875" y1="2398.5352" y2="2398.5352"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="490.625" x="1510.9375" y="2383.3588">HAL_I2C_EV_IRQHandler()</text><polygon fill="#0000FF" points="607.8125,2480.8838,576.5625,2493.3838,607.8125,2505.8838,595.3125,2493.3838" style="stroke:#0000FF;stroke-width:3.125;"/><line style="stroke:#0000FF;stroke-width:6.25;" x1="589.0625" x2="1439.0625" y1="2493.3838" y2="2493.3838"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="778.125" x="626.5625" y="2478.2074">HAL_I2C_MASTER_RxCpltCallback(&amp;hi2c)</text><line style="stroke:#000000;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="359.375" x2="2859.375" y1="2521.5088" y2="2521.5088"/><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="290.625" x="375" y="2557.193">[reception error]</text><rect fill="none" height="129.5166" style="stroke:#000000;stroke-width:4.6875;" width="1300" x="381.25" y="2567.8711"/><path d="M381.25,2567.8711 L575,2567.8711 L575,2592.8711 L543.75,2624.1211 L381.25,2624.1211 L381.25,2567.8711 " fill="#EEEEEE" style="stroke:#000000;stroke-width:6.25;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="53.125" x="421.875" y="2616.2933">ref</text><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="537.5" x="489.0625" y="2675.5493">New transmission attempt, see</text><text fill="#000000" font-family="sans-serif" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="537.5" x="1035.9375" y="2675.5493">Communication error handling</text><path d="M303.125,2778.6377 L1359.375,2778.6377 L1359.375,2804.7363 L1328.125,2835.9863 L303.125,2835.9863 L303.125,2778.6377 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="466.6748" style="stroke:#000000;stroke-width:4.6875;" width="1431.25" x="303.125" y="2778.6377"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="915.625" x="350" y="2823.9349">Controller compares sent and received buffers</text><path d="M334.375,2857.8613 L525,2857.8613 L525,2883.96 L493.75,2915.21 L334.375,2915.21 L334.375,2857.8613 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="365.5762" style="stroke:#000000;stroke-width:4.6875;" width="1368.75" x="334.375" y="2857.8613"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="50" x="381.25" y="2903.1586">alt</text><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="168.75" x="571.875" y="2899.7955">[identical]</text><path d="M365.625,2930.835 L365.625,3012.085 L1631.25,3012.085 L1631.25,2962.085 L1600,2930.835 L365.625,2930.835 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><path d="M1600,2930.835 L1600,2962.085 L1631.25,2962.085 L1600,2930.835 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="940.625" x="514.0625" y="2988.6322">The controller updates the buffer for the next transfer</text><line style="stroke:#000000;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="334.375" x2="1703.125" y1="3031.9336" y2="3031.9336"/><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="175" x="350" y="3067.6178">[different]</text><rect fill="none" height="129.5166" style="stroke:#000000;stroke-width:4.6875;" width="1300" x="381.25" y="3078.2959"/><path d="M381.25,3078.2959 L575,3078.2959 L575,3103.2959 L543.75,3134.5459 L381.25,3134.5459 L381.25,3078.2959 " fill="#EEEEEE" style="stroke:#000000;stroke-width:6.25;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="53.125" x="421.875" y="3126.7181">ref</text><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="537.5" x="489.0625" y="3185.9741">New transmission attempt, see</text><text fill="#000000" font-family="sans-serif" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="537.5" x="1035.9375" y="3185.9741">Communication error handling</text><line style="stroke:#000000;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="0" x2="2953.125" y1="3289.0625" y2="3289.0625"/><!--MD5=[e430719438360a04436810c0e269e092]
+@startuml doc/i2C-two-boards-com-it_NominalCase.svg
+' style
+skinparam backgroundColor #EEEBDC
+skinparam ParticipantPadding 20
+skinparam BoxPadding 20
+skinparam backgroundColor #EEEBDC
+skinparam dpi 300
+
+skinparam sequence {
+	ArrowColor blue
+	ActorBorderColor DeepSkyBlue
+	LifeLineBorderColor blue
+	LifeLineBackgroundColor #A9DCDF
+	ArrowThickness 2
+}
+
+' chart
+title  **Nominal I2C communication in interrupt mode**
+
+box "Controller Board"
+	participant "Example" as CtrlEx #lightgreen
+	participant "HAL I2C Driver" as CtrlHAL #lightblue
+  participant "I2Cx_IRQHandler" as CtrlIRQ
+end box
+box "Responder Board"
+	participant "Example" as RespEx #lightgreen
+end box
+
+== Initialization: app_init() ==
+activate CtrlEx
+	note right CtrlEx
+		The application initializes the I2C instance.
+	endnote
+activate RespEx
+== app_process() ==
+note right CtrlEx
+		The application runs indefinitely if no error occurs.
+endnote
+loop until max retry reached
+group Communication initiation by Controller : sending data
+      CtrlEx -> CtrlHAL : HAL_I2C_MASTER_Transmit_IT(&hi2c,...)
+      activate CtrlHAL
+      CtrlEx <- - CtrlHAL: HAL_OK
+
+      alt transmission success
+        CtrlHAL -[#black]>>o RespEx : data over I2C
+        CtrlHAL <- -[#black] RespEx : ACK reception
+        CtrlHAL <-[#black] CtrlIRQ: HAL_I2C_EV_IRQHandler()
+        CtrlEx <- CtrlHAL: HAL_I2C_MASTER_TxCpltCallback(&hi2c)
+        deactivate CtrlHAL
+
+      else #ALICEBLUE transmission error
+        ref over CtrlEx, CtrlHAL
+        New transmission attempt, see **Communication error handling**
+        end ref
+
+      end
+
+    end
+
+    group Data reception by Controller
+    CtrlEx -> CtrlHAL : HAL_I2C_Master_RECEIVE_IT(&hi2c,...)
+      activate CtrlHAL
+    CtrlEx <- - CtrlHAL: HAL_OK
+
+      alt reception success
+        CtrlHAL o<<[#black]- RespEx : data over I2C
+        CtrlHAL <-[#black] CtrlIRQ: HAL_I2C_EV_IRQHandler()
+        CtrlEx <- CtrlHAL: HAL_I2C_MASTER_RxCpltCallback(&hi2c)
+        deactivate CtrlHAL
+      else #AliceBlue  reception error
+        ref over CtrlEx, CtrlHAL
+        New transmission attempt, see **Communication error handling**
+        end ref
+
+      end
+
+    end
+
+    group Controller compares sent and received buffers
+
+      alt identical
+        note over CtrlEx, CtrlHAL
+        The controller updates the buffer for the next transfer
+        end note
+
+      else #ALICEBLUE different
+        ref over CtrlEx, CtrlHAL
+        New transmission attempt, see **Communication error handling**
+        end ref
+
+      end
+    end
+end
+
+
+newpage retries
+
+== app_process() ==
+...  transferring the data ...
+  note over CtrlEx,CtrlHAL
+  Failure during I2C transmission or reception process in interrupt mode
+  endnote
+CtrlHAL x-[#black]>>x RespEx : data not sent or not acknowledged
+  activate CtrlHAL
+CtrlHAL <-[#black] CtrlIRQ: I2Cx recoverable error interrupt
+CtrlEx <- CtrlHAL: HAL_I2C_ErrorCallback(&hi2c)
+CtrlEx -> CtrlHAL: HAL_I2C_GetLastErrors(&hi2c)
+CtrlEx <- - CtrlHAL: HAL_I2C_ERROR_AF/BUS_ERROR...
+  deactivate CtrlHAL
+
+group Communication error handling
+    alt Controller max attempts reached
+      note over CtrlEx
+        Stop the communication and exit app_process()
+      endnote
+			ref over CtrlEx, CtrlHAL
+        Report the error status, see **error_handler()**
+      end ref
+		else #ALICEBLUE Controller retry
+      note over CtrlEx, CtrlHAL
+        Decrement the number of attempts remaining
+      endnote
+			ref over CtrlEx, CtrlHAL
+			  Restart a new data transmission, see **sending data**
+			end ref
+		end
+end
+
+== ==
+group#GOLD  error_handler()
+  note over CtrlEx, CtrlHAL
+    Repeated flashing Green User LED
+  endnote
+end
+
+
+@enduml
+
+@startuml doc/i2C-two-boards-com-it_NominalCase.svg
+skinparam backgroundColor #EEEBDC
+skinparam ParticipantPadding 20
+skinparam BoxPadding 20
+skinparam backgroundColor #EEEBDC
+skinparam dpi 300
+
+skinparam sequence {
+	ArrowColor blue
+	ActorBorderColor DeepSkyBlue
+	LifeLineBorderColor blue
+	LifeLineBackgroundColor #A9DCDF
+	ArrowThickness 2
+}
+
+title  **Nominal I2C communication in interrupt mode**
+
+box "Controller Board"
+	participant "Example" as CtrlEx #lightgreen
+	participant "HAL I2C Driver" as CtrlHAL #lightblue
+  participant "I2Cx_IRQHandler" as CtrlIRQ
+end box
+box "Responder Board"
+	participant "Example" as RespEx #lightgreen
+end box
+
+== Initialization: app_init() ==
+activate CtrlEx
+	note right CtrlEx
+		The application initializes the I2C instance.
+	endnote
+activate RespEx
+== app_process() ==
+note right CtrlEx
+		The application runs indefinitely if no error occurs.
+endnote
+loop until max retry reached
+group Communication initiation by Controller : sending data
+      CtrlEx -> CtrlHAL : HAL_I2C_MASTER_Transmit_IT(&hi2c,...)
+      activate CtrlHAL
+      CtrlEx <- - CtrlHAL: HAL_OK
+
+      alt transmission success
+        CtrlHAL -[#black]>>o RespEx : data over I2C
+        CtrlHAL <- -[#black] RespEx : ACK reception
+        CtrlHAL <-[#black] CtrlIRQ: HAL_I2C_EV_IRQHandler()
+        CtrlEx <- CtrlHAL: HAL_I2C_MASTER_TxCpltCallback(&hi2c)
+        deactivate CtrlHAL
+
+      else #ALICEBLUE transmission error
+        ref over CtrlEx, CtrlHAL
+        New transmission attempt, see **Communication error handling**
+        end ref
+
+      end
+
+    end
+
+    group Data reception by Controller
+    CtrlEx -> CtrlHAL : HAL_I2C_Master_RECEIVE_IT(&hi2c,...)
+      activate CtrlHAL
+    CtrlEx <- - CtrlHAL: HAL_OK
+
+      alt reception success
+        CtrlHAL o<<[#black]- RespEx : data over I2C
+        CtrlHAL <-[#black] CtrlIRQ: HAL_I2C_EV_IRQHandler()
+        CtrlEx <- CtrlHAL: HAL_I2C_MASTER_RxCpltCallback(&hi2c)
+        deactivate CtrlHAL
+      else #AliceBlue  reception error
+        ref over CtrlEx, CtrlHAL
+        New transmission attempt, see **Communication error handling**
+        end ref
+
+      end
+
+    end
+
+    group Controller compares sent and received buffers
+
+      alt identical
+        note over CtrlEx, CtrlHAL
+        The controller updates the buffer for the next transfer
+        end note
+
+      else #ALICEBLUE different
+        ref over CtrlEx, CtrlHAL
+        New transmission attempt, see **Communication error handling**
+        end ref
+
+      end
+    end
+end
+
+
+newpage retries
+
+== app_process() ==
+...  transferring the data ...
+  note over CtrlEx,CtrlHAL
+  Failure during I2C transmission or reception process in interrupt mode
+  endnote
+CtrlHAL x-[#black]>>x RespEx : data not sent or not acknowledged
+  activate CtrlHAL
+CtrlHAL <-[#black] CtrlIRQ: I2Cx recoverable error interrupt
+CtrlEx <- CtrlHAL: HAL_I2C_ErrorCallback(&hi2c)
+CtrlEx -> CtrlHAL: HAL_I2C_GetLastErrors(&hi2c)
+CtrlEx <- - CtrlHAL: HAL_I2C_ERROR_AF/BUS_ERROR...
+  deactivate CtrlHAL
+
+group Communication error handling
+    alt Controller max attempts reached
+      note over CtrlEx
+        Stop the communication and exit app_process()
+      endnote
+			ref over CtrlEx, CtrlHAL
+        Report the error status, see **error_handler()**
+      end ref
+		else #ALICEBLUE Controller retry
+      note over CtrlEx, CtrlHAL
+        Decrement the number of attempts remaining
+      endnote
+			ref over CtrlEx, CtrlHAL
+			  Restart a new data transmission, see **sending data**
+			end ref
+		end
+end
+
+== ==
+group#GOLD  error_handler()
+  note over CtrlEx, CtrlHAL
+    Repeated flashing Green User LED
+  endnote
+end
+
+
+@enduml
+
+PlantUML version 1.2022.13(Sat Nov 19 14:22:17 CET 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

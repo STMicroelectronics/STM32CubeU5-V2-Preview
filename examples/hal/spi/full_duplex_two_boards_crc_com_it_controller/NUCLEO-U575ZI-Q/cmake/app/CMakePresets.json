@@ -1,0 +1,76 @@
+{
+    "version": 3,
+    "configurePresets": [
+        {
+            "name": "default",
+            "hidden": true,
+            "generator": "Ninja",
+            "binaryDir": "${sourceDir}/build/${presetName}"
+        },
+        {
+            "name": "release_GCC_NUCLEO-U575ZI-Q",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "${presetName}",
+                "CMSIS_Dsecure": "TZ-disabled",
+                "CMSIS_Tcompiler": "GCC",
+                "CMSIS_Bname": "",
+                "CMSIS_Dendian": "little",
+                "CMSIS_Ddsp": "NO_DSP",
+                "CMSIS_Dvendor": "STMicroelectronics:13",
+                "CMSIS_Dtz": "NO_TZ",
+                "CMSIS_Dcore": "Cortex-M33",
+                "CMSIS_Dfpu": "NO_FPU",
+                "CMSIS_Dname": "STM32U575ZIT6Q",
+                "CMSIS_USE_CMSIS_CORE_6_1_0": true,
+                "CMSIS_USE_Device_STM32_HAL_CORTEX_0_5_0": true,
+                "CMSIS_USE_Device_STM32_HAL_Core_0_4_2": true,
+                "CMSIS_USE_Device_STM32_HAL_DMA_0_7_0": true,
+                "CMSIS_USE_Device_STM32_HAL_EXTI_0_3_3": true,
+                "CMSIS_USE_Device_STM32_HAL_FLASH_ITF_0_4_0": true,
+                "CMSIS_USE_Device_STM32_HAL_GPIO_0_2_6": true,
+                "CMSIS_USE_Device_STM32_HAL_ICACHE_0_4_0": true,
+                "CMSIS_USE_Device_STM32_HAL_PWR_0_5_2": true,
+                "CMSIS_USE_Device_STM32_HAL_Q_0_1_1": true,
+                "CMSIS_USE_Device_STM32_HAL_RCC_0_6_0": true,
+                "CMSIS_USE_Device_STM32_HAL_SPI_0_2_0": true,
+                "CMSIS_USE_Device_STM32_HAL_UART_0_4_1": true,
+                "CMSIS_USE_Device_STM32_HAL_timebases_SYSTICK_0_1_0": true,
+                "CMSIS_USE_Device_STM32_LL_BUS_0_1_1": true,
+                "CMSIS_USE_Device_STM32_LL_Common_0_1_0": true,
+                "CMSIS_USE_Device_STM32_LL_DMA_0_3_0": true,
+                "CMSIS_USE_Device_STM32_LL_EXTI_0_1_2": true,
+                "CMSIS_USE_Device_STM32_LL_FLASH_0_2_0": true,
+                "CMSIS_USE_Device_STM32_LL_GPIO_0_1_1": true,
+                "CMSIS_USE_Device_STM32_LL_ICACHE_0_2_0": true,
+                "CMSIS_USE_Device_STM32_LL_PWR_0_1_0": true,
+                "CMSIS_USE_Device_STM32_LL_RCC_0_4_0": true,
+                "CMSIS_USE_Device_STM32_LL_SPI_0_3_0": true,
+                "CMSIS_USE_Device_STM32_LL_USART_0_3_0": true,
+                "CMSIS_USE_Device_Startup_2_0_0_beta_1": true,
+                "CMSIS_USE_Utility_Basic_stdio_Core_0_6_0": true,
+                "CMSIS_USE_Utility_Basic_stdio_itf_io_UART_0_6_0": true,
+                "CMSIS_USE_Utility_syscalls_Template_syscalls_0_2_0": true,
+                "CMSIS_USE_Device_STM32CubeMX2_Config_CORE_0_2_0": true,
+                "CMSIS_USE_Device_STM32CubeMX2_Config_Generated_Code_0_1_0": true,
+                "CMSIS_USE_Device_STM32CubeMX2_Config_ICACHE_0_6_0": true,
+                "CMSIS_USE_Device_STM32CubeMX2_Config_RCC_0_3_0": true,
+                "CMSIS_USE_Device_STM32CubeMX2_Config_SPI_0_3_0": true,
+                "CMSIS_USE_Device_STM32CubeMX2_Config_System_0_2_0": true,
+                "CMSIS_USE_Device_STM32CubeMX2_Config_UART_0_3_0": true,
+                "CMSIS_USE_Device_STM32CubeMX2_Config_def_0_2_0": true
+            },
+            "inherits": "default"
+        }
+    ],
+    "buildPresets": [
+        {
+            "name": "default",
+            "hidden": true,
+            "configurePreset": "default"
+        },
+        {
+            "name": "release_GCC_NUCLEO-U575ZI-Q",
+            "configurePreset": "release_GCC_NUCLEO-U575ZI-Q"
+        }
+    ]
+}

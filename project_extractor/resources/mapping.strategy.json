@@ -1,0 +1,98 @@
+{
+	"mapping-strategy": {
+		"File_Format":{
+			"version": "0.2"
+		},
+		"cube2-folders-structure":{
+			"elements":[
+				{
+					"id": "cmsis_pack",
+					"path_fullView": "$Cube2_Package_Root$/arch/cmsis",
+					"path_singleView": "$Project_Root$/arch/cmsis"
+				},
+				{
+					"id":"dfp_pack",
+					"path_fullView": "$Cube2_Package_Root$/$serie$_dfp",
+					"path_singleView": "$Project_Root$/$serie$_dfp"
+				},
+				{
+					"id":"hal_pack",
+					"path_fullView": "$Cube2_Package_Root$/$serie$_drivers",
+					"path_singleView": "$Project_Root$/$serie$_drivers"
+				},
+				{
+					"id":"part_pack",
+					"path_fullView": "$Cube2_Package_Root$/part_drivers",
+					"path_singleView": "$Project_Root$/part_drivers"
+				},
+				{
+					"id": "mw_pack",
+					"path_fullView": "$Cube2_Package_Root$/middleware",
+					"path_singleView": "$Project_Root$/middleware"
+				},
+				{
+					"id":"misc_pack",
+					"path_fullView": "$Cube2_Package_Root$/misc",
+					"path_singleView": "$Project_Root$/misc"
+				},
+				{
+					"id":"utility_pack",
+					"path_fullView": "$Cube2_Package_Root$/utilities",
+					"path_singleView": "$Project_Root$/utilities"
+				},
+				{
+					"id": ".settings",
+					"path_fullView": "$Project_Root$/$Board$/.settings",
+					"path_singleView": "$Project_Root$/.settings"
+				} ,
+				{
+					"id": "hw_paltform",
+					"path_fullView": "$Project_Root$/$Board$/hw_paltform",
+					"path_singleView": "$Project_Root$/hw_paltform"
+				},
+				{
+					"id": "generated",
+					"path_fullView": "$Project_Root$/$Board$/generated",
+					"path_singleView": "$Project_Root$/$Context_Folder$/generated"
+				},
+				{
+					"id": "application",
+					"path_fullView": "$Project_Root$/application",
+					"path_singleView": "$Project_Root$/$Context_Folder$/"
+				},
+				{
+					"id": "README.md",
+					"path_fullView": "$Project_Root$/README.md",
+					"path_singleView": "$Project_Root$/README.md"
+				},
+				{
+					"id": "README.html",
+					"path_fullView": "$Project_Root$/README.html",
+					"path_singleView": "$Project_Root$/README.html"
+				},
+				{
+					"IDE_Files": [
+						{
+							"CUBEMX2": {
+								"path_fullView": "$Project_Root$/$Board$/stm32cubemx2/",
+								"path_singleView": "$Project_Root$"
+							},
+							"EWARM": {
+								"path_fullView": "$Project_Root$/$Board$/ewarm/",
+								"path_singleView": "$Project_Root$"
+							},
+							"OPEN-CMSIS": {
+								"path_fullView": "$Project_Root$/$Board$/open-cmsis/",
+								"path_singleView": "$Project_Root$"
+							},
+							"CMAKE": {
+								"path_fullView": "$Project_Root$/$Board$/cmake/",
+								"path_singleView": "$Project_Root$"
+							}
+						}
+					]
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,94 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:91d97b2a-3c47-4e7e-94ee-f673abf1b791",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2025-06-13T08:40:56Z",
+    "tools": [
+      {
+        "vendor": "Black Duck",
+        "name": "Hub",
+        "version": "2025.1.1"
+      },
+      {
+        "vendor": "CycloneDX",
+        "name": "cyclonedx-core-java",
+        "version": "5.0.5"
+      }
+    ],
+    "authors": [
+      {
+        "name": "STMicroelectronics NV"
+      }
+    ],
+    "component": {
+      "type": "application",
+      "bom-ref": "394ae45c-3892-48ee-ab11-48b3f33520b5",
+      "supplier": {
+        "name": ""
+      },
+      "name": "DFP_U5_Pack",
+      "version": "v2.0.0-beta.1",
+      "licenses": [
+        {
+          "license": {
+            "id": "BSD-3-Clause"
+          }
+        }
+      ],
+      "pedigree": {
+        "notes": "BSD 3-clause \"New\" or \"Revised\" License"
+      },
+      "properties": [
+        {
+          "name": "BlackDuck-Component",
+          "value": "6a2031d4-b93a-499d-a6c5-4b52f26ef32b"
+        },
+        {
+          "name": "BlackDuck-ComponentVersion",
+          "value": "394ae45c-3892-48ee-ab11-48b3f33520b5"
+        }
+      ]
+    }
+  },
+  "components": [
+    {
+      "type": "library",
+      "bom-ref": "629e75ef-8942-4e71-aeb2-d360a789047c",
+      "supplier": {
+        "name": ""
+      },
+      "name": "STM32U5xx DFP",
+      "version": "2.0.0-beta.1",
+      "licenses": [
+        {
+          "license": {
+            "id": "BSD-3-Clause"
+          }
+        }
+      ],
+      "pedigree": {
+        "notes": "BSD 3-clause \"New\" or \"Revised\" License"
+      },
+      "properties": [
+        {
+          "name": "BlackDuck-Component",
+          "value": "50550fbe-1768-4644-8082-0ed9705dec91"
+        },
+        {
+          "name": "BlackDuck-ComponentVersion",
+          "value": "629e75ef-8942-4e71-aeb2-d360a789047c"
+        }
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "ref": "394ae45c-3892-48ee-ab11-48b3f33520b5",
+      "dependsOn": [
+        "629e75ef-8942-4e71-aeb2-d360a789047c"
+      ]
+    }
+  ]
+}

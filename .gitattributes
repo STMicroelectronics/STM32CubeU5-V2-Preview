@@ -1,0 +1,38 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Explicitly declare text files you want to always be normalized and converted
+# to native line endings on checkout.
+.editorconfig text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+.packignore text eol=lf
+
+*.c text eol=lf
+*.cpp text eol=lf
+*.h text eol=lf
+*.pdsc text eol=lf
+*.gpdsc text eol=lf
+*.json text eol=lf
+*.ld text eol=lf
+*.icf text eol=lf
+*.sct text eol=lf
+*.puml text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.s text eol=lf
+*.S text eol=lf
+*.sh text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.robot text eol=lf
+*.cprj text eol=lf
+*.svg text eol=lf
+*.eww text eol=lf
+*.ewp text eol=lf
+*.ewd text eol=lf
+
+# Denote all files that are truly binary and should not be modified.
+*.jpg binary
+*.pdf binary
+*.png binary

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="2431.25px" preserveAspectRatio="none" style="width:2975px;height:2431px;background:#EEEBDC;" version="1.1" viewBox="0 0 2975 2431" width="2975px" zoomAndPan="magnify"><defs/><g><rect fill="#EEEBDC" height="2431.25" style="stroke:none;stroke-width:3.125;" width="2975" x="0" y="0"/><text fill="#000000" font-family="sans-serif" font-size="43.75" font-weight="bold" lengthAdjust="spacing" textLength="146.875" x="1401.5625" y="92.2913">retries</text><rect fill="#DDDDDD" height="2274.0723" style="stroke:#181818;stroke-width:1.5625;" width="1970.3125" x="378.125" y="139.4043"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="328.125" x="1199.2188" y="181.5765">Controller Board</text><rect fill="#DDDDDD" height="2274.0723" style="stroke:#181818;stroke-width:1.5625;" width="362.5" x="2479.6875" y="139.4043"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="343.75" x="2489.0625" y="181.5765">Responder Board</text><rect fill="#A9DCDF" height="144.8486" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="542.1875" y="336.1572"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="542.1875" x2="542.1875" y1="336.1572" y2="481.0059"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="573.4375" x2="573.4375" y1="336.1572" y2="481.0059"/><rect fill="#A9DCDF" height="1662.3291" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="542.1875" y="611.7432"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="542.1875" x2="542.1875" y1="611.7432" y2="2274.0723"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="573.4375" x2="573.4375" y1="611.7432" y2="2274.0723"/><rect fill="#A9DCDF" height="379.3945" style="stroke:#0000FF;stroke-width:3.125;" width="31.25" x="1426.5625" y="795.1904"/><rect fill="#A9DCDF" height="144.8486" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="2645.3125" y="336.1572"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2645.3125" x2="2645.3125" y1="336.1572" y2="481.0059"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2676.5625" x2="2676.5625" y1="336.1572" y2="481.0059"/><rect fill="#A9DCDF" height="1662.3291" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="2645.3125" y="611.7432"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2645.3125" x2="2645.3125" y1="611.7432" y2="2274.0723"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2676.5625" x2="2676.5625" y1="611.7432" y2="2274.0723"/><rect fill="none" height="725.415" style="stroke:#000000;stroke-width:4.6875;" width="1706.25" x="28.125" y="1221.46"/><rect fill="none" height="624.3164" style="stroke:#000000;stroke-width:4.6875;" width="1643.75" x="59.375" y="1300.6836"/><rect fill="#F0F8FF" height="308.2275" style="stroke:none;stroke-width:3.125;" width="1643.75" x="59.375" y="1616.7725"/><rect fill="none" height="170.9473" style="stroke:#000000;stroke-width:4.6875;" width="1328.125" x="334.375" y="2078.125"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="556.25" x2="556.25" y1="304.9072" y2="481.0059"/><line style="stroke:#0000FF;stroke-width:3.125;stroke-dasharray:1.0,4.0;" x1="556.25" x2="556.25" y1="481.0059" y2="611.7432"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="556.25" x2="556.25" y1="611.7432" y2="2302.1973"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="1440.625" x2="1440.625" y1="304.9072" y2="481.0059"/><line style="stroke:#0000FF;stroke-width:3.125;stroke-dasharray:1.0,4.0;" x1="1440.625" x2="1440.625" y1="481.0059" y2="611.7432"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="1440.625" x2="1440.625" y1="611.7432" y2="2302.1973"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="2082.8125" x2="2082.8125" y1="304.9072" y2="481.0059"/><line style="stroke:#0000FF;stroke-width:3.125;stroke-dasharray:1.0,4.0;" x1="2082.8125" x2="2082.8125" y1="481.0059" y2="611.7432"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="2082.8125" x2="2082.8125" y1="611.7432" y2="2302.1973"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="2659.375" x2="2659.375" y1="304.9072" y2="481.0059"/><line style="stroke:#0000FF;stroke-width:3.125;stroke-dasharray:1.0,4.0;" x1="2659.375" x2="2659.375" y1="481.0059" y2="611.7432"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="2659.375" x2="2659.375" y1="611.7432" y2="2302.1973"/><rect fill="#90EE90" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="209.375" x="453.125" y="203.0029"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="165.625" x="475" y="270.2942">Example</text><rect fill="#90EE90" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="209.375" x="453.125" y="2299.0723"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="165.625" x="475" y="2366.3635">Example</text><rect fill="#ADD8E6" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="334.375" x="1275" y="203.0029"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="290.625" x="1296.875" y="270.2942">HAL USART Driver</text><rect fill="#ADD8E6" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="334.375" x="1275" y="2299.0723"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="290.625" x="1296.875" y="2366.3635">HAL USART Driver</text><rect fill="#E2E2F0" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="381.25" x="1892.1875" y="203.0029"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="337.5" x="1914.0625" y="270.2942">USARTx_IRQHandler</text><rect fill="#E2E2F0" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="381.25" x="1892.1875" y="2299.0723"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="337.5" x="1914.0625" y="2366.3635">USARTx_IRQHandler</text><rect fill="#90EE90" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="209.375" x="2556.25" y="203.0029"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="165.625" x="2578.125" y="270.2942">Example</text><rect fill="#90EE90" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="209.375" x="2556.25" y="2299.0723"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="165.625" x="2578.125" y="2366.3635">Example</text><rect fill="#A9DCDF" height="144.8486" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="542.1875" y="336.1572"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="542.1875" x2="542.1875" y1="336.1572" y2="481.0059"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="573.4375" x2="573.4375" y1="336.1572" y2="481.0059"/><rect fill="#A9DCDF" height="1662.3291" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="542.1875" y="611.7432"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="542.1875" x2="542.1875" y1="611.7432" y2="2274.0723"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="573.4375" x2="573.4375" y1="611.7432" y2="2274.0723"/><rect fill="#A9DCDF" height="379.3945" style="stroke:#0000FF;stroke-width:3.125;" width="31.25" x="1426.5625" y="795.1904"/><rect fill="#A9DCDF" height="144.8486" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="2645.3125" y="336.1572"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2645.3125" x2="2645.3125" y1="336.1572" y2="481.0059"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2676.5625" x2="2676.5625" y1="336.1572" y2="481.0059"/><rect fill="#A9DCDF" height="1662.3291" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="2645.3125" y="611.7432"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2645.3125" x2="2645.3125" y1="611.7432" y2="2274.0723"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2676.5625" x2="2676.5625" y1="611.7432" y2="2274.0723"/><line style="stroke:#000000;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="0" x2="2953.125" y1="339.2822" y2="339.2822"/><rect fill="#EEEEEE" height="9.375" style="stroke:#EEEEEE;stroke-width:3.125;" width="2953.125" x="0" y="408.5815"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2953.125" y1="408.5815" y2="408.5815"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2953.125" y1="417.9565" y2="417.9565"/><rect fill="#EEEEEE" height="76.0986" style="stroke:#000000;stroke-width:6.25;" width="328.125" x="1312.5" y="373.6572"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="271.875" x="1331.25" y="428.3295">app_process()</text><text fill="#000000" font-family="sans-serif" font-size="34.375" lengthAdjust="spacing" textLength="309.375" x="1459.375" y="560.4401">transferring the data</text><path d="M337.5,627.3682 L337.5,708.6182 L1659.375,708.6182 L1659.375,658.6182 L1628.125,627.3682 L337.5,627.3682 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><path d="M1628.125,627.3682 L1628.125,658.6182 L1659.375,658.6182 L1628.125,627.3682 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="1256.25" x="356.25" y="685.1654">Failure during USART transmission or reception process in interrupt mode</text><line style="stroke:#000000;stroke-width:6.25;" x1="1479.6875" x2="1510.9375" y1="779.5654" y2="810.8154"/><line style="stroke:#000000;stroke-width:6.25;" x1="1479.6875" x2="1510.9375" y1="810.8154" y2="779.5654"/><line style="stroke:#000000;stroke-width:6.25;" x1="2589.0625" x2="2620.3125" y1="779.5654" y2="810.8154"/><line style="stroke:#000000;stroke-width:6.25;" x1="2589.0625" x2="2620.3125" y1="810.8154" y2="779.5654"/><line style="stroke:#000000;stroke-width:6.25;" x1="1495.3125" x2="2604.6875" y1="795.1904" y2="795.1904"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="621.875" x="1510.9375" y="780.014">data not sent or not acknowledged</text><polygon fill="#000000" points="1492.1875,877.5391,1460.9375,890.0391,1492.1875,902.5391,1479.6875,890.0391" style="stroke:#000000;stroke-width:3.125;"/><line style="stroke:#000000;stroke-width:6.25;" x1="1473.4375" x2="2079.6875" y1="890.0391" y2="890.0391"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="550" x="1510.9375" y="874.8627">USARTx recoverable error interrupt</text><polygon fill="#0000FF" points="607.8125,972.3877,576.5625,984.8877,607.8125,997.3877,595.3125,984.8877" style="stroke:#0000FF;stroke-width:3.125;"/><line style="stroke:#0000FF;stroke-width:6.25;" x1="589.0625" x2="1423.4375" y1="984.8877" y2="984.8877"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="553.125" x="626.5625" y="969.7113">HAL_USART_ErrorCallback(&amp;hUSART)</text><polygon fill="#0000FF" points="1389.0625,1067.2363,1420.3125,1079.7363,1389.0625,1092.2363,1401.5625,1079.7363" style="stroke:#0000FF;stroke-width:3.125;"/><line style="stroke:#0000FF;stroke-width:6.25;" x1="573.4375" x2="1407.8125" y1="1079.7363" y2="1079.7363"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="562.5" x="595.3125" y="1064.5599">HAL_USART_GetLastErrors(&amp;hUSART)</text><polygon fill="#0000FF" points="607.8125,1162.085,576.5625,1174.585,607.8125,1187.085,595.3125,1174.585" style="stroke:#0000FF;stroke-width:3.125;"/><line style="stroke:#0000FF;stroke-width:6.25;stroke-dasharray:2.0,2.0;" x1="589.0625" x2="1439.0625" y1="1174.585" y2="1174.585"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="700" x="626.5625" y="1159.4086">HAL_USART_ERROR_AF/BUS_ERROR...</text><path d="M28.125,1221.46 L778.125,1221.46 L778.125,1247.5586 L746.875,1278.8086 L28.125,1278.8086 L28.125,1221.46 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="725.415" style="stroke:#000000;stroke-width:4.6875;" width="1706.25" x="28.125" y="1221.46"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="609.375" x="75" y="1266.7572">Communication error handling</text><path d="M59.375,1300.6836 L250,1300.6836 L250,1326.7822 L218.75,1358.0322 L59.375,1358.0322 L59.375,1300.6836 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="624.3164" style="stroke:#000000;stroke-width:4.6875;" width="1643.75" x="59.375" y="1300.6836"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="50" x="106.25" y="1345.9808">alt</text><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="596.875" x="296.875" y="1342.6178">[Controller max attempts reached]</text><path d="M90.625,1373.6572 L90.625,1454.9072 L1021.875,1454.9072 L1021.875,1404.9072 L990.625,1373.6572 L90.625,1373.6572 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><path d="M990.625,1373.6572 L990.625,1404.9072 L1021.875,1404.9072 L990.625,1373.6572 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="865.625" x="109.375" y="1431.4545">Stop the communication and exit app_process()</text><rect fill="none" height="129.5166" style="stroke:#000000;stroke-width:4.6875;" width="1300" x="381.25" y="1471.6309"/><path d="M381.25,1471.6309 L575,1471.6309 L575,1496.6309 L543.75,1527.8809 L381.25,1527.8809 L381.25,1471.6309 " fill="#EEEEEE" style="stroke:#000000;stroke-width:6.25;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="53.125" x="421.875" y="1520.0531">ref</text><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="468.75" x="656.25" y="1579.3091">Report the error status, see</text><text fill="#000000" font-family="sans-serif" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="271.875" x="1134.375" y="1579.3091">error_handler()</text><line style="stroke:#000000;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="59.375" x2="1703.125" y1="1619.8975" y2="1619.8975"/><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="293.75" x="75" y="1655.5817">[Controller retry]</text><path d="M365.625,1681.8848 L365.625,1763.1348 L1631.25,1763.1348 L1631.25,1713.1348 L1600,1681.8848 L365.625,1681.8848 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><path d="M1600,1681.8848 L1600,1713.1348 L1631.25,1713.1348 L1600,1681.8848 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="815.625" x="576.5625" y="1739.682">Decrement the number of attempts remaining</text><rect fill="none" height="129.5166" style="stroke:#000000;stroke-width:4.6875;" width="1300" x="381.25" y="1779.8584"/><path d="M381.25,1779.8584 L575,1779.8584 L575,1804.8584 L543.75,1836.1084 L381.25,1836.1084 L381.25,1779.8584 " fill="#EEEEEE" style="stroke:#000000;stroke-width:6.25;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="53.125" x="421.875" y="1828.2806">ref</text><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="643.75" x="590.625" y="1887.5366">Restart a new data transmission, see</text><text fill="#000000" font-family="sans-serif" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="228.125" x="1243.75" y="1887.5366">sending data</text><rect fill="#EEEEEE" height="9.375" style="stroke:#EEEEEE;stroke-width:3.125;" width="2953.125" x="0" y="2009.375"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2953.125" y1="2009.375" y2="2009.375"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2953.125" y1="2018.75" y2="2018.75"/><path d="M334.375,2078.125 L771.875,2078.125 L771.875,2104.2236 L740.625,2135.4736 L334.375,2135.4736 L334.375,2078.125 " fill="#FFD700" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="170.9473" style="stroke:#000000;stroke-width:4.6875;" width="1328.125" x="334.375" y="2078.125"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="296.875" x="381.25" y="2123.4222">error_handler()</text><path d="M365.625,2151.0986 L365.625,2232.3486 L1631.25,2232.3486 L1631.25,2182.3486 L1600,2151.0986 L365.625,2151.0986 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><path d="M1600,2151.0986 L1600,2182.3486 L1631.25,2182.3486 L1600,2151.0986 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="631.25" x="668.75" y="2208.8959">Repeated flashing Green User LED</text><!--MD5=[e430719438360a04436810c0e269e092]
+@startuml doc/USART-two-boards-com-it_NominalCase.svg
+' style
+skinparam backgroundColor #EEEBDC
+skinparam ParticipantPadding 20
+skinparam BoxPadding 20
+skinparam backgroundColor #EEEBDC
+skinparam dpi 300
+
+skinparam sequence {
+	ArrowColor blue
+	ActorBorderColor DeepSkyBlue
+	LifeLineBorderColor blue
+	LifeLineBackgroundColor #A9DCDF
+	ArrowThickness 2
+}
+
+' chart
+title  **Nominal USART communication in interrupt mode**
+
+box "Controller Board"
+	participant "Example" as CtrlEx #lightgreen
+	participant "HAL USART Driver" as CtrlHAL #lightblue
+  participant "USARTx_IRQHandler" as CtrlIRQ
+end box
+box "Responder Board"
+	participant "Example" as RespEx #lightgreen
+end box
+
+== Initialization: app_init() ==
+activate CtrlEx
+	note right CtrlEx
+		The application initializes the USART instance.
+	endnote
+activate RespEx
+== app_process() ==
+note right CtrlEx
+		The application runs indefinitely if no error occurs.
+endnote
+loop until max retry reached
+group Communication initiation by Controller : sending data
+      CtrlEx -> CtrlHAL : HAL_USART_Transmit_IT(&hUSART,...)
+      activate CtrlHAL
+      CtrlEx <- - CtrlHAL: HAL_OK
+
+      alt transmission success
+        CtrlHAL -[#black]>>o RespEx : data over USART
+        CtrlHAL <- -[#black] RespEx : ACK reception
+        CtrlHAL <-[#black] CtrlIRQ: HAL_USART_EV_IRQHandler()
+        CtrlEx <- CtrlHAL: HAL_USART_TxCpltCallback(&hUSART)
+        deactivate CtrlHAL
+
+      else #ALICEBLUE transmission error
+        ref over CtrlEx, CtrlHAL
+        New transmission attempt, see **Communication error handling**
+        end ref
+
+      end
+
+    end
+
+    group Data reception by Controller
+    CtrlEx -> CtrlHAL : HAL_USART_RECEIVE_IT(&hUSART,...)
+      activate CtrlHAL
+    CtrlEx <- - CtrlHAL: HAL_OK
+
+      alt reception success
+        CtrlHAL o<<[#black]- RespEx : data over USART
+        CtrlHAL <-[#black] CtrlIRQ: HAL_USART_EV_IRQHandler()
+        CtrlEx <- CtrlHAL: HAL_USART_RxCpltCallback(&hUSART)
+        deactivate CtrlHAL
+      else #AliceBlue  reception error
+        ref over CtrlEx, CtrlHAL
+        New transmission attempt, see **Communication error handling**
+        end ref
+
+      end
+
+    end
+
+    group Controller compares sent and received buffers
+
+      alt identical
+        note over CtrlEx, CtrlHAL
+        The controller updates the buffer for the next transfer
+        end note
+
+      else #ALICEBLUE different
+        ref over CtrlEx, CtrlHAL
+        New transmission attempt, see **Communication error handling**
+        end ref
+
+      end
+    end
+end
+
+
+newpage retries
+
+== app_process() ==
+...  transferring the data ...
+  note over CtrlEx,CtrlHAL
+  Failure during USART transmission or reception process in interrupt mode
+  endnote
+CtrlHAL x-[#black]>>x RespEx : data not sent or not acknowledged
+  activate CtrlHAL
+CtrlHAL <-[#black] CtrlIRQ: USARTx recoverable error interrupt
+CtrlEx <- CtrlHAL: HAL_USART_ErrorCallback(&hUSART)
+CtrlEx -> CtrlHAL: HAL_USART_GetLastErrors(&hUSART)
+CtrlEx <- - CtrlHAL: HAL_USART_ERROR_AF/BUS_ERROR...
+  deactivate CtrlHAL
+
+group Communication error handling
+    alt Controller max attempts reached
+      note over CtrlEx
+        Stop the communication and exit app_process()
+      endnote
+			ref over CtrlEx, CtrlHAL
+        Report the error status, see **error_handler()**
+      end ref
+		else #ALICEBLUE Controller retry
+      note over CtrlEx, CtrlHAL
+        Decrement the number of attempts remaining
+      endnote
+			ref over CtrlEx, CtrlHAL
+			  Restart a new data transmission, see **sending data**
+			end ref
+		end
+end
+
+== ==
+group#GOLD  error_handler()
+  note over CtrlEx, CtrlHAL
+    Repeated flashing Green User LED
+  endnote
+end
+
+
+@enduml
+
+@startuml doc/USART-two-boards-com-it_NominalCase.svg
+skinparam backgroundColor #EEEBDC
+skinparam ParticipantPadding 20
+skinparam BoxPadding 20
+skinparam backgroundColor #EEEBDC
+skinparam dpi 300
+
+skinparam sequence {
+	ArrowColor blue
+	ActorBorderColor DeepSkyBlue
+	LifeLineBorderColor blue
+	LifeLineBackgroundColor #A9DCDF
+	ArrowThickness 2
+}
+
+title  **Nominal USART communication in interrupt mode**
+
+box "Controller Board"
+	participant "Example" as CtrlEx #lightgreen
+	participant "HAL USART Driver" as CtrlHAL #lightblue
+  participant "USARTx_IRQHandler" as CtrlIRQ
+end box
+box "Responder Board"
+	participant "Example" as RespEx #lightgreen
+end box
+
+== Initialization: app_init() ==
+activate CtrlEx
+	note right CtrlEx
+		The application initializes the USART instance.
+	endnote
+activate RespEx
+== app_process() ==
+note right CtrlEx
+		The application runs indefinitely if no error occurs.
+endnote
+loop until max retry reached
+group Communication initiation by Controller : sending data
+      CtrlEx -> CtrlHAL : HAL_USART_Transmit_IT(&hUSART,...)
+      activate CtrlHAL
+      CtrlEx <- - CtrlHAL: HAL_OK
+
+      alt transmission success
+        CtrlHAL -[#black]>>o RespEx : data over USART
+        CtrlHAL <- -[#black] RespEx : ACK reception
+        CtrlHAL <-[#black] CtrlIRQ: HAL_USART_EV_IRQHandler()
+        CtrlEx <- CtrlHAL: HAL_USART_TxCpltCallback(&hUSART)
+        deactivate CtrlHAL
+
+      else #ALICEBLUE transmission error
+        ref over CtrlEx, CtrlHAL
+        New transmission attempt, see **Communication error handling**
+        end ref
+
+      end
+
+    end
+
+    group Data reception by Controller
+    CtrlEx -> CtrlHAL : HAL_USART_RECEIVE_IT(&hUSART,...)
+      activate CtrlHAL
+    CtrlEx <- - CtrlHAL: HAL_OK
+
+      alt reception success
+        CtrlHAL o<<[#black]- RespEx : data over USART
+        CtrlHAL <-[#black] CtrlIRQ: HAL_USART_EV_IRQHandler()
+        CtrlEx <- CtrlHAL: HAL_USART_RxCpltCallback(&hUSART)
+        deactivate CtrlHAL
+      else #AliceBlue  reception error
+        ref over CtrlEx, CtrlHAL
+        New transmission attempt, see **Communication error handling**
+        end ref
+
+      end
+
+    end
+
+    group Controller compares sent and received buffers
+
+      alt identical
+        note over CtrlEx, CtrlHAL
+        The controller updates the buffer for the next transfer
+        end note
+
+      else #ALICEBLUE different
+        ref over CtrlEx, CtrlHAL
+        New transmission attempt, see **Communication error handling**
+        end ref
+
+      end
+    end
+end
+
+
+newpage retries
+
+== app_process() ==
+...  transferring the data ...
+  note over CtrlEx,CtrlHAL
+  Failure during USART transmission or reception process in interrupt mode
+  endnote
+CtrlHAL x-[#black]>>x RespEx : data not sent or not acknowledged
+  activate CtrlHAL
+CtrlHAL <-[#black] CtrlIRQ: USARTx recoverable error interrupt
+CtrlEx <- CtrlHAL: HAL_USART_ErrorCallback(&hUSART)
+CtrlEx -> CtrlHAL: HAL_USART_GetLastErrors(&hUSART)
+CtrlEx <- - CtrlHAL: HAL_USART_ERROR_AF/BUS_ERROR...
+  deactivate CtrlHAL
+
+group Communication error handling
+    alt Controller max attempts reached
+      note over CtrlEx
+        Stop the communication and exit app_process()
+      endnote
+			ref over CtrlEx, CtrlHAL
+        Report the error status, see **error_handler()**
+      end ref
+		else #ALICEBLUE Controller retry
+      note over CtrlEx, CtrlHAL
+        Decrement the number of attempts remaining
+      endnote
+			ref over CtrlEx, CtrlHAL
+			  Restart a new data transmission, see **sending data**
+			end ref
+		end
+end
+
+== ==
+group#GOLD  error_handler()
+  note over CtrlEx, CtrlHAL
+    Repeated flashing Green User LED
+  endnote
+end
+
+
+@enduml
+
+PlantUML version 1.2022.13(Sat Nov 19 14:22:17 CET 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

@@ -1,0 +1,56 @@
+name: "\U0001F4DD Feedback"
+description: Provide feedback on the new HAL2 and related offers
+labels: ["Feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to test the updated HAL2 and the related offers.  
+
+        We appreciate your feedback regarding your experience. Your input is invaluable to us and will enable us to enhance our offerings, ensuring the best possible ecosystem to support your development journey with STM32.
+
+  - type: checkboxes
+    id: Elements
+    attributes:
+      label: Which part of the preview are you using?
+      description: You may select more than one.
+      options:
+        - label: HAL2
+        - label: Examples
+        - label: Part drivers
+        - label: Documentation
+        - label: Other
+
+  - type: textarea
+    id: HAL2
+    attributes:
+      label: How was your experience with HAL2?
+      description: Please provide a clear and concise description of your experience with HAL2.
+      placeholder: e.g., I found the split of between initialization and configuration practical/impractical  because...
+
+  - type: textarea
+    id: Examples
+    attributes:
+      label: How was your experience with Examples?
+      description: If you experienced the new example format, please provide your feedback on elements that you found helpful or you would like to see improved.
+      placeholder: e.g., I found the new README structure helpful/unhelpful when working with the examples because...
+ 
+  - type: textarea
+    id: part-drivers
+    attributes:
+      label: How was your experience with Part drivers?
+      description: If you experienced the new concepts of part drivers, please provide your feedback on elements that you found helpful or you would like to see improved.
+      placeholder: e.g., I found the common high-level function-oriented layer helpful/unhelpful because...
+
+  - type: textarea
+    id: Documentation
+    attributes:
+      label: How was your experience with the new documentation?
+      description: If you have experienced the new documentation format, please provide your feedback on elements you found helpful or would like to see improved.
+      placeholder: e.g., I found the structure of the new online/html-based documentation helpful/unhelpful because...
+
+  - type: textarea
+    id: Other
+    attributes:
+      label: Any other feedback that you would like to share?
+      placeholder: e.g., I would like to suggest...

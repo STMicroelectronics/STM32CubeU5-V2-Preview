@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Release Notes for STM32CubeU5 HAL and LL drivers</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="_htmresc/mini-st_2020.css" />
+  <link rel="icon" type="image/x-icon" href="_htmresc/favicon.png" />
+</head>
+<body>
+<div class="row">
+<div class="col-sm-12 col-lg-4">
+<center>
+<h1 id="release-notes-for-stm32cubeu5-hal2-drivers">Release Notes for
+<mark>STM32CubeU5 HAL2 drivers</mark></h1>
+<p>Copyright © 2025 STMicroelectronics</p>
+<a href="https://www.st.com" class="logo"><img
+src="_htmresc/st_logo_2020.png" alt="ST logo" /></a>
+</center>
+<h1 id="purpose">Purpose</h1>
+<p>The STM32Cube HAL and LL, an STM32 abstraction layer embedded
+software, ensure maximized portability across STM32 portfolio.</p>
+<p>The portable APIs layer provides a generic, multi instanced and
+simple set of APIs to interact with the upper layer (application,
+libraries and stacks). It is composed of native and extended APIs set.
+It is directly built around a generic architecture and allows the
+build-upon layers, like the middleware layer, to implement its functions
+without knowing in-depth the used STM32 device. This improves the
+library code reusability and guarantees an easy portability on other
+devices and STM32 families.</p>
+<p>The Low Layer (LL) drivers are part of the STM32Cube firmware HAL
+that provides a basic set of optimized and one-shot services. The Low
+layer drivers, contrary to the HAL ones are not fully portable across
+the STM32 families; the availability of some functions depends on the
+physical availability of the relative features on the product. The Low
+Layer (LL) drivers are designed to offer the following features:</p>
+<ul>
+<li>New set of inline functions for direct and atomic register
+access</li>
+<li>One-shot operations that can be used by the HAL drivers or from
+application level</li>
+<li>Full independence from HAL and standalone usage (without HAL
+drivers)</li>
+<li>Full features coverage of all the supported peripherals</li>
+</ul>
+</div>
+<section id="update-history" class="col-sm-12 col-lg-8">
+<h1>Update History</h1>
+<div class="collapse">
+<input type="checkbox" id="collapse-section6" checked aria-hidden="true">
+<label for="collapse-section6" checked aria-hidden="true"><strong>V2.0.0-beta.1.1
+/ 04-July-2025</strong></label>
+<div>
+<h2 id="first-beta-release">First Beta release</h2>
+<p>Beta public release supporting STM32U535 / STM32U545 / STM32U575 /
+STM32U585 / STM32U595xx / STM32U5A5xx / STM32U599xx / STM32U5A9xx
+devices.</p>
+<p>For more information, see <a
+href="https://dev.st.com/stm32cube-docs/stm32u5-hal2/2.0.0-beta.1.1/docs/drivers/stm32u5xx_drivers_documentation.html">STM32
+HAL/LL drivers Documentation</a> which provides detailed description of
+the individual HAL2 Drivers, including How to Use, Use Cases, and API
+References.</p>
+<h3 id="halll-drivers-status">HAL/LL drivers status</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Component</th>
+<th>Code</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>ADC</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>ADF</td>
+<td>HAL1</td>
+</tr>
+<tr class="odd">
+<td>AES</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>COMP</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>CORDIC</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>CORTEX</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>CRC</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>CRS</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>DAC</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>DBGMCU</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>DCACHE</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>DCMI</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>DLYB</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>DMA</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>DMA2D</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>DSI</td>
+<td>HAL1</td>
+</tr>
+<tr class="odd">
+<td>EXTI</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>FDCAN</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>FLASH</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>FMAC</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>FMC-SRAM</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>FMC-NAND</td>
+<td>HAL1</td>
+</tr>
+<tr class="odd">
+<td>FMC-NOR</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>GFXMMU</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>GFXTIM</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>GPIO</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>GPU2D</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>GTZC</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>HASH</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>I2C</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>ICACHE</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>IWDG</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>JPEG</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>LPTIM</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>LTDC</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>MDF</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>MMC</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>OPAMP</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>OS</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>OTFDEC</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>PKA</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>PSSI</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>PWR</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>Q</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>RAMCFG</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>RCC</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>RNG</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>RTC</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>SAI</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>SD</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>SDIO</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>SMARTCARD</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>SMBUS</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>SPI</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>SYSCFG</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>TAMP</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>TIM</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>TSC</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>UART</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>UCPD</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>USART</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>USB-D</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>USB-H</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>VREFBUF</td>
+<td>HAL2</td>
+</tr>
+<tr class="odd">
+<td>WWDG</td>
+<td>HAL2</td>
+</tr>
+<tr class="even">
+<td>XSPI</td>
+<td>HAL2</td>
+</tr>
+</tbody>
+</table>
+<h2 id="known-limitations">Known Limitations</h2>
+<ul>
+<li>As an Beta release, it does not implement full features neither
+fully tested, it may contain bugs.</li>
+<li>A few drivers are not yet available in HAL2 format: DSI, FMC-NAND and
+MDF.</li>
+</ul>
+<h2 id="backward-compatibility">Backward compatibility</h2>
+<ul>
+<li>STM32CubeU5 HAL2 drivers brings major evolutions vs. STM32CubeU5
+HAL1 which leads to API breaks.</li>
+</ul>
+</div>
+</div>
+</section>
+</div>
+<footer class="sticky">
+<p>For complete documentation on STM32 Microcontrollers </mark> , visit:
+<span style="font-color: blue;"><a
+href="http://www.st.com/stm32">www.st.com/stm32</a></span></p>
+This release note uses up to date web standards and, for this reason,
+should not be opened with Internet Explorer but preferably with popular
+browsers such as Google Chrome, Mozilla Firefox, Opera or Microsoft
+Edge.
+</footer>
+</body>
+</html>

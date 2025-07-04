@@ -1,0 +1,281 @@
+{
+	"bomFormat": "CycloneDX",
+	"specVersion": "1.5",
+	"serialNumber": "urn:uuid:5f455695-773c-438a-a440-244fdcceb029",
+	"version": 1,
+	"metadata": {
+		"timestamp": "2025-19-06T09:19:55Z",
+		"tools": [
+			{
+				"vendor": "Black Duck",
+				"name": "Hub",
+				"version": "2025.1.1"
+			},
+			{
+				"vendor": "CycloneDX",
+				"name": "cyclonedx-core-java",
+				"version": "5.0.5"
+			}
+		],
+		"authors": [
+			{
+				"name": "STMicroelectronics NV"
+			}
+		],
+		"component": {
+			"name": "STM32Cube SW Package U5",
+			"version": "v2.0.0",
+			"type": "application",
+			"bom-ref": "81db1e4b-60df-4c97-b8de-1ac738063849"
+		}
+	},
+	"components": [	
+		{
+		  "type": "library",
+		  "bom-ref": "629e75ef-8942-4e71-aeb2-d360a789047c",
+		  "supplier": {
+			"name": ""
+		  },
+		  "name": "STM32U5xx DFP",
+		  "version": "2.0.0-beta.1",
+		  "licenses": [
+			{
+			  "license": {
+				"id": "BSD-3-Clause"
+			  }
+			}
+		  ],
+		  "pedigree": {
+			"notes": "BSD 3-clause \"New\" or \"Revised\" License"
+		  },
+		  "properties": [
+			{
+			  "name": "BlackDuck-Component",
+			  "value": "50550fbe-1768-4644-8082-0ed9705dec91"
+			},
+			{
+			  "name": "BlackDuck-ComponentVersion",
+			  "value": "629e75ef-8942-4e71-aeb2-d360a789047c"
+			}
+		  ]
+		},	
+		{
+			"type": "library",
+			"bom-ref": "0a024d60-5ec7-410c-b6cc-25e65e2f0e46",
+			"supplier": {
+				"name": ""
+			},
+			"name": "STM32U5xx HAL Driver",
+			"version": "2.0.0-beta.1.1",
+			"licenses": [
+				{
+					"license": {
+						"id": "BSD-3-Clause"
+					}
+				}
+			],
+			"pedigree": {
+				"notes": "BSD 3-clause \"New\" or \"Revised\" License"
+			},
+			"properties": [
+				{
+					"name": "BlackDuck-Component",
+					"value": "efa60d4c-ab27-4ca1-87a4-c5d037fd4e1e"
+				},
+				{
+					"name": "BlackDuck-ComponentVersion",
+					"value": "0a024d60-5ec7-410c-b6cc-25e65e2f0e46"
+				}
+			]
+		},
+		{
+			"type": "library",
+			"bom-ref": "678c735a-e80e-4e33-9ddb-07b2431bed48",
+			"supplier": {
+				"name": ""
+			},
+			"name": "Part_Drivers button",
+			"version": "0.5.0",
+			"licenses": [
+				{
+					"license": {
+						"id": "BSD-3-Clause"
+					}
+				}
+			],
+			"pedigree": {
+				"notes": "BSD 3-clause \"New\" or \"Revised\" License"
+			},
+			"properties": [
+				{
+					"name": "BlackDuck-Component",
+					"value": "59b32881-49f1-401c-aa7e-e9d4c503c6f0"
+				},
+				{
+					"name": "BlackDuck-ComponentVersion",
+					"value": "678c735a-e80e-4e33-9ddb-07b2431bed48"
+				}
+			]
+		},	
+		{
+			"type": "library",
+			"bom-ref": "87b8b893-06cd-494b-aa06-b40ceaa696bc",
+			"supplier": {
+				"name": ""
+			},
+			"name": "Part_Drivers led",
+			"version": "0.11.2",
+			"licenses": [
+				{
+					"license": {
+						"id": "BSD-3-Clause"
+					}
+				}
+			],
+			"pedigree": {
+				"notes": "BSD 3-clause \"New\" or \"Revised\" License"
+			},
+			"properties": [
+				{
+					"name": "BlackDuck-Component",
+					"value": "da5c338c-2f99-4691-8c59-1c69c9eb5c22"
+				},
+				{
+					"name": "BlackDuck-ComponentVersion",
+					"value": "87b8b893-06cd-494b-aa06-b40ceaa696bc"
+				}
+			]
+		},
+		{
+			"type": "library",
+			"bom-ref": "a5c3eab8-3588-436b-80f8-b3644da0097c",
+			"supplier": {
+				"name": ""
+			},
+			"name": "Part_Drivers_tcpp01",
+			"version": "0.3.0",
+			"licenses": [
+				{
+					"license": {
+						"id": "BSD-3-Clause"
+					}
+				}
+			],
+			"pedigree": {
+				"notes": "BSD 3-clause \"New\" or \"Revised\" License"
+			},
+			"properties": [
+				{
+					"name": "BlackDuck-Component",
+					"value": "61effbfe-b849-455b-b0c1-606b4590b5ce"
+				},
+				{
+					"name": "BlackDuck-ComponentVersion",
+					"value": "a5c3eab8-3588-436b-80f8-b3644da0097c"
+				}
+			]
+		},
+		{
+			"type": "library",
+			"bom-ref": "bbb36f44-6156-4e26-8f2f-7db052151162",
+			"supplier": {
+				"name": ""
+			},
+			"name": "Utilities basic_stdio",
+			"version": "0.6.1",
+			"licenses": [
+				{
+					"license": {
+						"id": "BSD-3-Clause"
+					}
+				}
+			],
+			"pedigree": {
+				"notes": "BSD 3-clause \"New\" or \"Revised\" License"
+			},
+			"properties": [
+				{
+					"name": "BlackDuck-Component",
+					"value": "f19c2415-f9f6-429a-bf42-50f8317dcea7"
+				},
+				{
+					"name": "BlackDuck-ComponentVersion",
+					"value": "bbb36f44-6156-4e26-8f2f-7db052151162"
+				}
+			]
+		},
+		{
+			"type": "library",
+			"bom-ref": "a21aa8c1-2a9e-4149-9c4e-529066ffba37",
+			"supplier": {
+				"name": ""
+			},
+			"name": "Utilities sequencer",
+			"version": "2.0.0",
+			"licenses": [
+				{
+					"license": {
+						"id": "BSD-3-Clause"
+					}
+				}
+			],
+			"pedigree": {
+				"notes": "BSD 3-clause \"New\" or \"Revised\" License"
+			},
+			"properties": [
+				{
+					"name": "BlackDuck-Component",
+					"value": "4da7d912-e62c-4b3f-8e8e-c8f7df23e6db"
+				},
+				{
+					"name": "BlackDuck-ComponentVersion",
+					"value": "a21aa8c1-2a9e-4149-9c4e-529066ffba37"
+				}
+			]
+		},		
+		{
+			"type": "library",
+			"bom-ref": "00faea15-cbae-44c4-a7ca-ce3e1e938d98",
+			"supplier": {
+				"name": ""
+			},
+			"name": "Utilities syscalls",
+			"version": "0.2.0",
+			"licenses": [
+				{
+					"license": {
+						"id": "BSD-3-Clause"
+					}
+				}
+			],
+			"pedigree": {
+				"notes": "BSD 3-clause \"New\" or \"Revised\" License"
+			},
+			"properties": [
+				{
+					"name": "BlackDuck-Component",
+					"value": "8fe0bb6b-24aa-43db-a31e-e2c3b651d4b9"
+				},
+				{
+					"name": "BlackDuck-ComponentVersion",
+					"value": "00faea15-cbae-44c4-a7ca-ce3e1e938d98"
+				}
+			]
+		},
+	],
+	"dependencies": [
+		{
+			"ref": "81db1e4b-60df-4c97-b8de-1ac738063849",
+			"dependsOn": [
+				"629e75ef-8942-4e71-aeb2-d360a789047c",
+				"0a024d60-5ec7-410c-b6cc-25e65e2f0e46",
+                "678c735a-e80e-4e33-9ddb-07b2431bed48",
+				"87b8b893-06cd-494b-aa06-b40ceaa696bc",
+				"a5c3eab8-3588-436b-80f8-b3644da0097c",
+				"bbb36f44-6156-4e26-8f2f-7db052151162",
+				"a21aa8c1-2a9e-4149-9c4e-529066ffba37",
+				"00faea15-cbae-44c4-a7ca-ce3e1e938d98",
+			]
+		}
+	]
+}

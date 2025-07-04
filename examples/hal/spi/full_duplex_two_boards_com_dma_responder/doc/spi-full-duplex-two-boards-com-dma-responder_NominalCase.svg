@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="2871.875px" preserveAspectRatio="none" style="width:2378px;height:2871px;background:#EEEBDC;" version="1.1" viewBox="0 0 2378 2871" width="2378.125px" zoomAndPan="magnify"><defs/><g><rect fill="#EEEBDC" height="2871.875" style="stroke:none;stroke-width:3.125;" width="2378.125" x="0" y="0"/><text fill="#000000" font-family="sans-serif" font-size="43.75" font-weight="bold" lengthAdjust="spacing" textLength="1146.875" x="603.125" y="92.2913">Nominal SPI full-duplex communication in DMA mode</text><rect fill="#DDDDDD" height="2713.9404" style="stroke:#181818;stroke-width:1.5625;" width="1168.75" x="378.125" y="139.4043"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="343.75" x="790.625" y="181.5765">Responder Board</text><rect fill="#DDDDDD" height="2713.9404" style="stroke:#181818;stroke-width:1.5625;" width="359.375" x="1884.375" y="139.4043"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="328.125" x="1900" y="181.5765">Controller Board</text><rect fill="#A9DCDF" height="2377.7832" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="542.1875" y="336.1572"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="542.1875" x2="542.1875" y1="336.1572" y2="2713.9404"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="573.4375" x2="573.4375" y1="336.1572" y2="2713.9404"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="542.1875" x2="573.4375" y1="336.1572" y2="336.1572"/><rect fill="#A9DCDF" height="414.8682" style="stroke:#0000FF;stroke-width:3.125;" width="31.25" x="1317.1875" y="1034.4727"/><rect fill="#A9DCDF" height="2377.7832" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="2048.4375" y="336.1572"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2048.4375" x2="2048.4375" y1="336.1572" y2="2713.9404"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2079.6875" x2="2079.6875" y1="336.1572" y2="2713.9404"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2048.4375" x2="2079.6875" y1="336.1572" y2="336.1572"/><rect fill="none" height="1722.29" style="stroke:#000000;stroke-width:4.6875;" width="2137.5" x="187.5" y="610.2295"/><rect fill="none" height="1395.0928" style="stroke:#000000;stroke-width:4.6875;" width="2075" x="218.75" y="828.0518"/><rect fill="none" height="783.5693" style="stroke:#000000;stroke-width:4.6875;" width="1934.375" x="328.125" y="907.2754"/><rect fill="none" height="346.8262" style="stroke:#000000;stroke-width:4.6875;" width="1206.25" x="359.375" y="1322.1436"/><rect fill="#F0F8FF" height="194.6289" style="stroke:none;stroke-width:3.125;" width="1206.25" x="359.375" y="1474.3408"/><rect fill="none" height="466.6748" style="stroke:#000000;stroke-width:4.6875;" width="1387.5" x="250" y="1734.5947"/><rect fill="none" height="365.5762" style="stroke:#000000;stroke-width:4.6875;" width="1325" x="281.25" y="1813.8184"/><rect fill="#F0F8FF" height="194.6289" style="stroke:none;stroke-width:3.125;" width="1325" x="281.25" y="1984.7656"/><rect fill="none" height="170.9473" style="stroke:#000000;stroke-width:4.6875;" width="1190.625" x="350" y="2514.8682"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="556.25" x2="556.25" y1="304.9072" y2="2742.0654"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="1331.25" x2="1331.25" y1="304.9072" y2="2742.0654"/><line style="stroke:#0000FF;stroke-width:1.5625;stroke-dasharray:5.0,5.0;" x1="2062.5" x2="2062.5" y1="304.9072" y2="2742.0654"/><rect fill="#90EE90" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="209.375" x="453.125" y="203.0029"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="165.625" x="475" y="270.2942">Example</text><rect fill="#90EE90" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="209.375" x="453.125" y="2738.9404"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="165.625" x="475" y="2806.2317">Example</text><rect fill="#ADD8E6" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="278.125" x="1193.75" y="203.0029"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="234.375" x="1215.625" y="270.2942">HAL Drivers</text><rect fill="#ADD8E6" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="278.125" x="1193.75" y="2738.9404"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="234.375" x="1215.625" y="2806.2317">HAL Drivers</text><rect fill="#90EE90" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="209.375" x="1959.375" y="203.0029"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="165.625" x="1981.25" y="270.2942">Example</text><rect fill="#90EE90" height="98.7793" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:1.5625;" width="209.375" x="1959.375" y="2738.9404"/><text fill="#000000" font-family="sans-serif" font-size="43.75" lengthAdjust="spacing" textLength="165.625" x="1981.25" y="2806.2317">Example</text><rect fill="#A9DCDF" height="2377.7832" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="542.1875" y="336.1572"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="542.1875" x2="542.1875" y1="336.1572" y2="2713.9404"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="573.4375" x2="573.4375" y1="336.1572" y2="2713.9404"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="542.1875" x2="573.4375" y1="336.1572" y2="336.1572"/><rect fill="#A9DCDF" height="414.8682" style="stroke:#0000FF;stroke-width:3.125;" width="31.25" x="1317.1875" y="1034.4727"/><rect fill="#A9DCDF" height="2377.7832" style="stroke:#A9DCDF;stroke-width:3.125;" width="31.25" x="2048.4375" y="336.1572"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2048.4375" x2="2048.4375" y1="336.1572" y2="2713.9404"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2079.6875" x2="2079.6875" y1="336.1572" y2="2713.9404"/><line style="stroke:#0000FF;stroke-width:3.125;" x1="2048.4375" x2="2079.6875" y1="336.1572" y2="336.1572"/><rect fill="#EEEEEE" height="9.375" style="stroke:#EEEEEE;stroke-width:3.125;" width="2356.25" x="0" y="402.3315"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2356.25" y1="402.3315" y2="402.3315"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2356.25" y1="411.7065" y2="411.7065"/><rect fill="#EEEEEE" height="76.0986" style="stroke:#000000;stroke-width:6.25;" width="512.5" x="921.875" y="367.4072"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="456.25" x="940.625" y="422.0795">Initialization: app_init()</text><path d="M587.5,490.3809 L587.5,571.6309 L1431.25,571.6309 L1431.25,521.6309 L1400,490.3809 L587.5,490.3809 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><path d="M1400,490.3809 L1400,521.6309 L1431.25,521.6309 L1400,490.3809 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="778.125" x="606.25" y="548.1781">The application initializes the SPI instance.</text><path d="M187.5,610.2295 L415.625,610.2295 L415.625,636.3281 L384.375,667.5781 L187.5,667.5781 L187.5,610.2295 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="1722.29" style="stroke:#000000;stroke-width:4.6875;" width="2137.5" x="187.5" y="610.2295"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="87.5" x="234.375" y="655.5267">loop</text><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="540.625" x="462.5" y="652.1637">[EXAMPLE_LOOP_COUNT times]</text><rect fill="#EEEEEE" height="9.375" style="stroke:#EEEEEE;stroke-width:3.125;" width="2356.25" x="0" y="733.7524"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2356.25" y1="733.7524" y2="733.7524"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2356.25" y1="743.1274" y2="743.1274"/><rect fill="#EEEEEE" height="76.0986" style="stroke:#000000;stroke-width:6.25;" width="328.125" x="1014.0625" y="698.8281"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="271.875" x="1032.8125" y="753.5004">app_process()</text><path d="M218.75,828.0518 L446.875,828.0518 L446.875,854.1504 L415.625,885.4004 L218.75,885.4004 L218.75,828.0518 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="1395.0928" style="stroke:#000000;stroke-width:4.6875;" width="2075" x="218.75" y="828.0518"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="87.5" x="265.625" y="873.349">loop</text><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="425" x="493.75" y="869.986">[Until max retry reached]</text><path d="M328.125,907.2754 L1512.5,907.2754 L1512.5,933.374 L1481.25,964.624 L328.125,964.624 L328.125,907.2754 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="783.5693" style="stroke:#000000;stroke-width:4.6875;" width="1934.375" x="328.125" y="907.2754"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="1043.75" x="375" y="952.5726">Transmission and reception of data by the responder</text><polygon fill="#0000FF" points="1279.6875,1021.9727,1310.9375,1034.4727,1279.6875,1046.9727,1292.1875,1034.4727" style="stroke:#0000FF;stroke-width:3.125;"/><line style="stroke:#0000FF;stroke-width:6.25;" x1="573.4375" x2="1298.4375" y1="1034.4727" y2="1034.4727"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="596.875" x="595.3125" y="1019.2963">HAL_SPI_TransmitReceive_DMA</text><polygon fill="#0000FF" points="607.8125,1116.8213,576.5625,1129.3213,607.8125,1141.8213,595.3125,1129.3213" style="stroke:#0000FF;stroke-width:3.125;"/><line style="stroke:#0000FF;stroke-width:6.25;stroke-dasharray:2.0,2.0;" x1="589.0625" x2="1314.0625" y1="1129.3213" y2="1129.3213"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="159.375" x="626.5625" y="1114.1449">HAL_OK</text><ellipse cx="1346.875" cy="1272.9248" fill="none" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:4.6875;"/><line style="stroke:#000000;stroke-width:6.25;" x1="1368.75" x2="1400" y1="1275.2686" y2="1262.7686"/><line style="stroke:#000000;stroke-width:6.25;" x1="1368.75" x2="1400" y1="1275.2686" y2="1287.7686"/><ellipse cx="2046.875" cy="1272.9248" fill="none" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:4.6875;"/><line style="stroke:#000000;stroke-width:6.25;" x1="2025" x2="1993.75" y1="1275.2686" y2="1262.7686"/><line style="stroke:#000000;stroke-width:6.25;" x1="2025" x2="1993.75" y1="1275.2686" y2="1287.7686"/><line style="stroke:#000000;stroke-width:6.25;" x1="1348.4375" x2="2028.125" y1="1275.2686" y2="1275.2686"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="581.25" x="1401.5625" y="1208.9935">full-duplex data transfer between</text><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="625" x="1401.5625" y="1260.0922">the DMA and the Responder board</text><path d="M359.375,1322.1436 L550,1322.1436 L550,1348.2422 L518.75,1379.4922 L359.375,1379.4922 L359.375,1322.1436 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="346.8262" style="stroke:#000000;stroke-width:4.6875;" width="1206.25" x="359.375" y="1322.1436"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="50" x="406.25" y="1367.4408">alt</text><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="659.375" x="596.875" y="1364.0778">[transmission and reception success]</text><polygon fill="#0000FF" points="607.8125,1436.8408,576.5625,1449.3408,607.8125,1461.8408,595.3125,1449.3408" style="stroke:#0000FF;stroke-width:3.125;"/><line style="stroke:#0000FF;stroke-width:6.25;stroke-dasharray:2.0,2.0;" x1="589.0625" x2="1329.6875" y1="1449.3408" y2="1449.3408"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="509.375" x="626.5625" y="1434.1644">HAL_SPI_TxRxCpltCallback</text><line style="stroke:#000000;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="359.375" x2="1565.625" y1="1477.4658" y2="1477.4658"/><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="659.375" x="375" y="1513.15">[Transmission and/or reception error]</text><rect fill="none" height="129.5166" style="stroke:#000000;stroke-width:4.6875;" width="1162.5" x="381.25" y="1523.8281"/><path d="M381.25,1523.8281 L575,1523.8281 L575,1548.8281 L543.75,1580.0781 L381.25,1580.0781 L381.25,1523.8281 " fill="#EEEEEE" style="stroke:#000000;stroke-width:6.25;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="53.125" x="421.875" y="1572.2504">ref</text><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="559.375" x="409.375" y="1631.5063">New data exchange attempt, see</text><text fill="#000000" font-family="sans-serif" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="537.5" x="978.125" y="1631.5063">Communication error handling</text><path d="M250,1734.5947 L1321.875,1734.5947 L1321.875,1760.6934 L1290.625,1791.9434 L250,1791.9434 L250,1734.5947 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="466.6748" style="stroke:#000000;stroke-width:4.6875;" width="1387.5" x="250" y="1734.5947"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="931.25" x="296.875" y="1779.892">Responder compares sent and received buffers</text><path d="M281.25,1813.8184 L471.875,1813.8184 L471.875,1839.917 L440.625,1871.167 L281.25,1871.167 L281.25,1813.8184 " fill="#EEEEEE" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="365.5762" style="stroke:#000000;stroke-width:4.6875;" width="1325" x="281.25" y="1813.8184"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="50" x="328.125" y="1859.1156">alt</text><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="168.75" x="518.75" y="1855.7526">[identical]</text><path d="M312.5,1886.792 L312.5,1968.042 L1575,1968.042 L1575,1918.042 L1543.75,1886.792 L312.5,1886.792 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><path d="M1543.75,1886.792 L1543.75,1918.042 L1575,1918.042 L1543.75,1886.792 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="1196.875" x="331.25" y="1944.5892">The responder updates the transmission buffer for the next transfer</text><line style="stroke:#000000;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="281.25" x2="1606.25" y1="1987.8906" y2="1987.8906"/><text fill="#000000" font-family="sans-serif" font-size="34.375" font-weight="bold" lengthAdjust="spacing" textLength="175" x="296.875" y="2023.5748">[different]</text><rect fill="none" height="129.5166" style="stroke:#000000;stroke-width:4.6875;" width="1162.5" x="381.25" y="2034.2529"/><path d="M381.25,2034.2529 L575,2034.2529 L575,2059.2529 L543.75,2090.5029 L381.25,2090.5029 L381.25,2034.2529 " fill="#EEEEEE" style="stroke:#000000;stroke-width:6.25;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="53.125" x="421.875" y="2082.6752">ref</text><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="475" x="451.5625" y="2141.9312">New exchange attempt, see</text><text fill="#000000" font-family="sans-serif" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="537.5" x="935.9375" y="2141.9312">Communication error handling</text><rect fill="#EEEEEE" height="9.375" style="stroke:#EEEEEE;stroke-width:3.125;" width="2356.25" x="0" y="2285.6445"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2356.25" y1="2285.6445" y2="2285.6445"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2356.25" y1="2295.0195" y2="2295.0195"/><rect fill="#EEEEEE" height="9.375" style="stroke:#EEEEEE;stroke-width:3.125;" width="2356.25" x="0" y="2420.5688"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2356.25" y1="2420.5688" y2="2420.5688"/><line style="stroke:#000000;stroke-width:3.125;" x1="0" x2="2356.25" y1="2429.9438" y2="2429.9438"/><rect fill="#EEEEEE" height="76.0986" style="stroke:#000000;stroke-width:6.25;" width="615.625" x="870.3125" y="2385.6445"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="559.375" x="889.0625" y="2440.3168">Deinitialization: app_deinit()</text><path d="M350,2514.8682 L840.625,2514.8682 L840.625,2540.9668 L809.375,2572.2168 L350,2572.2168 L350,2514.8682 " fill="#008000" style="stroke:#000000;stroke-width:4.6875;"/><rect fill="none" height="170.9473" style="stroke:#000000;stroke-width:4.6875;" width="1190.625" x="350" y="2514.8682"/><text fill="#000000" font-family="sans-serif" font-size="40.625" font-weight="bold" lengthAdjust="spacing" textLength="350" x="396.875" y="2560.1654">success_handler()</text><path d="M381.25,2587.8418 L381.25,2669.0918 L1509.375,2669.0918 L1509.375,2619.0918 L1478.125,2587.8418 L381.25,2587.8418 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><path d="M1478.125,2587.8418 L1478.125,2619.0918 L1509.375,2619.0918 L1478.125,2587.8418 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="40.625" lengthAdjust="spacing" textLength="728.125" x="567.1875" y="2645.639">Responder stays in the success handler</text><line style="stroke:#000000;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="0" x2="2356.25" y1="2707.6904" y2="2707.6904"/><!--MD5=[c5ff205075757fae3e1d3011dbe31e56]
+@startuml spi-full-duplex-two-boards-com-dma-Responder_NominalCase
+' style
+skinparam backgroundColor #EEEBDC
+skinparam ParticipantPadding 20
+skinparam BoxPadding 20
+skinparam backgroundColor #EEEBDC
+skinparam dpi 300
+
+skinparam sequence {
+	ArrowColor blue
+	ActorBorderColor DeepSkyBlue
+	LifeLineBorderColor blue
+	LifeLineBackgroundColor #A9DCDF
+	ArrowThickness 2
+}
+
+' chart
+title **Nominal SPI full-duplex communication in DMA mode**
+
+box "Responder Board"
+	participant "Example" as CtrlEx #lightgreen
+	participant "HAL Drivers" as CtrlHAL #lightblue
+end box
+box "Controller Board"
+	participant "Example" as RespEx #lightgreen
+end box
+
+== Initialization: app_init() ==
+activate CtrlEx
+	note right CtrlEx
+		The application initializes the SPI instance.
+	endnote
+activate RespEx
+
+loop EXAMPLE_LOOP_COUNT times
+  == app_process() ==
+  loop Until max retry reached
+    group Transmission and reception of data by the responder
+      CtrlEx -> CtrlHAL : HAL_SPI_TransmitReceive_DMA
+      activate CtrlHAL
+      CtrlEx <- - CtrlHAL: HAL_OK
+      CtrlHAL o<<-[#black]>>o RespEx : full-duplex data transfer between \nthe DMA and the Responder board
+
+      alt transmission and reception success
+        CtrlEx <- - CtrlHAL: HAL_SPI_TxRxCpltCallback
+        deactivate CtrlHAL
+
+      else #ALICEBLUE Transmission and/or reception error
+        ref over CtrlEx, CtrlHAL
+        New data exchange attempt, see **Communication error handling**
+        end ref
+      end
+
+    end
+
+    group Responder compares sent and received buffers
+      alt identical
+        note over CtrlEx, CtrlHAL
+        The responder updates the transmission buffer for the next transfer
+        end note
+
+      else #ALICEBLUE different
+        ref over CtrlEx, CtrlHAL
+        New exchange attempt, see **Communication error handling**
+        end ref
+
+      end
+    end
+  end
+  == ==
+
+end
+== Deinitialization: app_deinit() ==
+
+group#GREEN  success_handler()
+  note over CtrlEx, CtrlHAL
+    Responder stays in the success handler
+  endnote
+end
+
+newpage Attempts mechanism
+
+== app_process() ==
+... Data transfer ...
+  note over CtrlEx,CtrlHAL
+  Failure during SPI transmission and/or reception in DMA mode
+  endnote
+CtrlHAL x-[#black]>>x RespEx : Data transfer stopped
+  activate CtrlHAL
+CtrlEx <- - CtrlHAL: HAL_SPI_ErrorCallback,\nHAL_ERROR or HAL_TIMEOUT
+  deactivate CtrlHAL
+
+group Communication error handling
+    alt Responder max attempts reached
+      note over CtrlEx
+        Stop the communication and exit app_process()
+      endnote
+			ref over CtrlEx, CtrlHAL
+        Report the error status, see **error_handler()**
+      end ref
+		else #ALICEBLUE Responder retry
+      note over CtrlEx, CtrlHAL
+        Decrement the number of remaining attempts
+      endnote
+			ref over CtrlEx, CtrlHAL
+			  Restart a new data exchange, see **exchanging data**
+			end ref
+		end
+end
+
+== ==
+group#GOLD  error_handler()
+  note over CtrlEx, CtrlHAL
+    Responder stays in the error handler
+  endnote
+end
+@enduml
+
+@startuml spi-full-duplex-two-boards-com-dma-Responder_NominalCase
+skinparam backgroundColor #EEEBDC
+skinparam ParticipantPadding 20
+skinparam BoxPadding 20
+skinparam backgroundColor #EEEBDC
+skinparam dpi 300
+
+skinparam sequence {
+	ArrowColor blue
+	ActorBorderColor DeepSkyBlue
+	LifeLineBorderColor blue
+	LifeLineBackgroundColor #A9DCDF
+	ArrowThickness 2
+}
+
+title **Nominal SPI full-duplex communication in DMA mode**
+
+box "Responder Board"
+	participant "Example" as CtrlEx #lightgreen
+	participant "HAL Drivers" as CtrlHAL #lightblue
+end box
+box "Controller Board"
+	participant "Example" as RespEx #lightgreen
+end box
+
+== Initialization: app_init() ==
+activate CtrlEx
+	note right CtrlEx
+		The application initializes the SPI instance.
+	endnote
+activate RespEx
+
+loop EXAMPLE_LOOP_COUNT times
+  == app_process() ==
+  loop Until max retry reached
+    group Transmission and reception of data by the responder
+      CtrlEx -> CtrlHAL : HAL_SPI_TransmitReceive_DMA
+      activate CtrlHAL
+      CtrlEx <- - CtrlHAL: HAL_OK
+      CtrlHAL o<<-[#black]>>o RespEx : full-duplex data transfer between \nthe DMA and the Responder board
+
+      alt transmission and reception success
+        CtrlEx <- - CtrlHAL: HAL_SPI_TxRxCpltCallback
+        deactivate CtrlHAL
+
+      else #ALICEBLUE Transmission and/or reception error
+        ref over CtrlEx, CtrlHAL
+        New data exchange attempt, see **Communication error handling**
+        end ref
+      end
+
+    end
+
+    group Responder compares sent and received buffers
+      alt identical
+        note over CtrlEx, CtrlHAL
+        The responder updates the transmission buffer for the next transfer
+        end note
+
+      else #ALICEBLUE different
+        ref over CtrlEx, CtrlHAL
+        New exchange attempt, see **Communication error handling**
+        end ref
+
+      end
+    end
+  end
+  == ==
+
+end
+== Deinitialization: app_deinit() ==
+
+group#GREEN  success_handler()
+  note over CtrlEx, CtrlHAL
+    Responder stays in the success handler
+  endnote
+end
+
+newpage Attempts mechanism
+
+== app_process() ==
+... Data transfer ...
+  note over CtrlEx,CtrlHAL
+  Failure during SPI transmission and/or reception in DMA mode
+  endnote
+CtrlHAL x-[#black]>>x RespEx : Data transfer stopped
+  activate CtrlHAL
+CtrlEx <- - CtrlHAL: HAL_SPI_ErrorCallback,\nHAL_ERROR or HAL_TIMEOUT
+  deactivate CtrlHAL
+
+group Communication error handling
+    alt Responder max attempts reached
+      note over CtrlEx
+        Stop the communication and exit app_process()
+      endnote
+			ref over CtrlEx, CtrlHAL
+        Report the error status, see **error_handler()**
+      end ref
+		else #ALICEBLUE Responder retry
+      note over CtrlEx, CtrlHAL
+        Decrement the number of remaining attempts
+      endnote
+			ref over CtrlEx, CtrlHAL
+			  Restart a new data exchange, see **exchanging data**
+			end ref
+		end
+end
+
+== ==
+group#GOLD  error_handler()
+  note over CtrlEx, CtrlHAL
+    Responder stays in the error handler
+  endnote
+end
+@enduml
+
+PlantUML version 1.2022.13(Sat Nov 19 14:22:17 CET 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
