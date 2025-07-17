@@ -76,4 +76,4 @@ Part drivers are standalone drivers, that are designed to support external parts
 
 ## Contributing
 
-To provide feedback or other reports, please refer to the [COUNTRIBUTING.md](./CONTRIBUTING.md) guide.
+To provide feedback or other reports, please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) guide.
