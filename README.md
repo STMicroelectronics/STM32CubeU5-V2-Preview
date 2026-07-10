@@ -1,20 +1,20 @@
-# STM32Cube U5 HAL2 drivers Preview - Explore, Experiment, and Share Your Feedback
+# STM32Cube U5 HAL2 drivers Preview
 
-![banner](./_htmresc/st_banner.png)
+> [!IMPORTANT]
+> This repository has been archived because it is **no longer maintained** and is not recommended for new development (**NRND**). Please refer to the STM32Cube MCU offer (orange badge below) for a list of **HAL2-based** firmware packages.
 
 [![release note](https://img.shields.io/badge/release_note-view_html-gold.svg)](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/STM32CubeU5-V2-Preview/blob/main/Release_Notes.html)
-![feedback welcome](https://img.shields.io/badge/feedback-welcome-brightgreen.svg)
-[![discussions](https://img.shields.io/badge/discussions-join_the_conversation-blue.svg)](https://github.com/STMicroelectronics/STM32CubeU5-V2-Preview/discussions)
+![feedback](https://img.shields.io/badge/feedback-closed-lightgrey.svg)
+![discussions](https://img.shields.io/badge/discussions-inactive-lightgrey.svg)
+[![offer](https://img.shields.io/badge/stm32cube_mcu_offer-browse-orange.svg)](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer)
+
+![banner](./_htmresc/st_banner.png)
 
 <div align="center">
     <a href="./CONTRIBUTING.md/">Contributing Guide</a> |
     <a href="./examples/">Examples</a> |
     <a href="./docs/">Documentation</a>
 </div>
-
-> [!IMPORTANT]
-> This is a **preview** of the upcoming STM32Cube HAL2 Drivers for STM32U5, with the purpose of enabling the STM32 community to **give feedback**.
-> It is intended for **evaluation** and **experimentation**, as it may undergo changes.
 
 ----
 
